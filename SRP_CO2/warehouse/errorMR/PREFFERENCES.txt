@@ -1,0 +1,17 @@
+Notes:...
+
+Reactants:
+
+~/error_function/errorMR/input/NADH.gjf
+~/error_function/errorMR/input/F.gjf
+
+
+Products:
+~/error_function/errorMR/input/F_P.gjf
+~/error_function/errorMR/input/NAD.gjf
+
+
+ 
+Traits:
+
+energy=1 83.94138519 eV

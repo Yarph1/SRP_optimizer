@@ -1,0 +1,14 @@
+Notes:
+For STRUCTURE trait to be accurate, the initial structure before optimization SHOULD be the "correct" structure
+
+Reactants:
+
+~/error_functionNAD/input/TS_state.gjf 1
+
+Products:
+~/error_functionNAD/input/reactants.gjf 1
+
+ 
+Traits:
+
+energy=1 0.7285026668 eV

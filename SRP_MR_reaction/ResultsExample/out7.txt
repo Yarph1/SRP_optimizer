@@ -1,0 +1,1203 @@
+('These are the traits to optimize by:\n', [['energy', 1.0, 0.7285026668]])
+(['~/error_functionNAD/input/TS_state.gjf'], '\n', ['~/error_functionNAD/input/reactants.gjf'])
+/home/qnt/pshety/error_functionNAD/input/TS_state.gjf
+
+/home/qnt/pshety/error_functionNAD/input/reactants.gjf
+
+~/error_functionNAD2/GaussFiles/reactants ~/error_functionNAD2
+~/error_functionNAD2/GaussFiles/TS_state ~/error_functionNAD2
+378.414u 4.513s 0:53.51 715.6%	0+0k 0+1256656io 0pf+0w
+~/error_functionNAD2
+398.838u 4.306s 0:56.97 707.6%	0+0k 0+1097472io 0pf+0w
+~/error_functionNAD2
+
+This part is about to calculate the best set of parameters
+**************
+This is generation number:  1
+**************
+~/error_functionNAD2/GaussFiles/reactants ~/error_functionNAD2
+~/error_functionNAD2/GaussFiles/TS_state ~/error_functionNAD2
+378.137u 4.418s 0:54.19 705.9%	0+0k 0+1255712io 0pf+0w
+~/error_functionNAD2
+404.337u 4.146s 0:57.98 704.5%	0+0k 0+1096016io 0pf+0w
+~/error_functionNAD2
+grader.pyc:	[['energy', 1.0, 0.7285026668]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/TS_state/TS_state_1.out', mode 'r' at 0x7f63533d9b70>	1.05763966305
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_1.out', mode 'r' at 0x7f63533dd9c0>	-0.502956042299
+outExtractor.pyc:	 Total Energy difference:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_1.out', mode 'r' at 0x7f63533dd9c0>	1.56059570534
+[41mTEST: inCounter:2 GradeList: ['0.832093038544    1'][0m
+1
+***********Mutator: self.rateCromo=0.721347520444 self.rateGene 0.05 rand 0.285744150237
+***********Mutator: self.rateCromo=0.721347520444 self.rateGene 0.05 rand 0.0182345618212
+***********Mutator: self.rateCromo=0.721347520444 self.rateGene 0.05 rand 0.761262795064
+***********Mutator: self.rateCromo=0.721347520444 self.rateGene 0.05 rand 0.903752921847
+1
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.721347520444 rand 0.125414852458
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.721347520444 rand 0.470258001165
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.721347520444 rand 0.492458674877
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.721347520444 rand 0.713377396781
+1
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.05 rand 0.415536539797
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.05 rand 0.0713442169027
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.05 rand 0.938721432545
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.05 rand 0.79435172945
+1
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.05 rand 0.129864792311
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.05 rand 0.378786414564
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.05 rand 0.501210604498
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.05 rand 0.978516207185
+1
+***********Mutator: self.rateCromo=0.721347520444 self.rateGene 0.721347520444 rand 0.322968771953
+***********Mutator: self.rateCromo=0.721347520444 self.rateGene 0.721347520444 rand 0.33421898477
+***********Mutator: self.rateCromo=0.721347520444 self.rateGene 0.721347520444 rand 0.39669517863
+***********Mutator: self.rateCromo=0.721347520444 self.rateGene 0.721347520444 rand 0.406550230789
+1
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.05 rand 0.442371596077
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.05 rand 0.840127389264
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.05 rand 0.771230805632
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.05 rand 0.714944173271
+1
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.05 rand 0.763275800765
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.05 rand 0.331841591565
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.05 rand 0.591214428449
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.05 rand 0.759888156313
+1
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.05 rand 0.201079591414
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.05 rand 0.197047328999
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.05 rand 0.807738810079
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.05 rand 0.204641492329
+1
+***********Mutator: self.rateCromo=0.721347520444 self.rateGene 0.721347520444 rand 0.184841861867
+***********Mutator: self.rateCromo=0.721347520444 self.rateGene 0.721347520444 rand 0.343196728741
+***********Mutator: self.rateCromo=0.721347520444 self.rateGene 0.721347520444 rand 0.233154903484
+***********Mutator: self.rateCromo=0.721347520444 self.rateGene 0.721347520444 rand 0.0468790169314
+1
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.05 rand 0.682825059935
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.05 rand 0.628446165129
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.05 rand 0.11451147722
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.05 rand 0.964645425189
+1
+***********Mutator: self.rateCromo=0.721347520444 self.rateGene 0.721347520444 rand 0.362402909515
+***********Mutator: self.rateCromo=0.721347520444 self.rateGene 0.721347520444 rand 0.162564405686
+***********Mutator: self.rateCromo=0.721347520444 self.rateGene 0.721347520444 rand 0.544154874581
+***********Mutator: self.rateCromo=0.721347520444 self.rateGene 0.721347520444 rand 0.725110617035
+1
+***********Mutator: self.rateCromo=0.721347520444 self.rateGene 0.721347520444 rand 0.536583373378
+***********Mutator: self.rateCromo=0.721347520444 self.rateGene 0.721347520444 rand 0.804840231658
+***********Mutator: self.rateCromo=0.721347520444 self.rateGene 0.721347520444 rand 0.10818189838
+***********Mutator: self.rateCromo=0.721347520444 self.rateGene 0.721347520444 rand 0.707884661716
+1
+***********Mutator: self.rateCromo=0.721347520444 self.rateGene 0.05 rand 0.666425632655
+***********Mutator: self.rateCromo=0.721347520444 self.rateGene 0.05 rand 0.206453092441
+***********Mutator: self.rateCromo=0.721347520444 self.rateGene 0.05 rand 0.833508751903
+***********Mutator: self.rateCromo=0.721347520444 self.rateGene 0.05 rand 0.569885979536
+1
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.05 rand 0.252978596502
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.05 rand 0.417870100027
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.05 rand 0.64722596672
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.05 rand 0.186478807627
+1
+***********Mutator: self.rateCromo=0.721347520444 self.rateGene 0.721347520444 rand 0.0706306434752
+***********Mutator: self.rateCromo=0.721347520444 self.rateGene 0.721347520444 rand 0.514375197602
+***********Mutator: self.rateCromo=0.721347520444 self.rateGene 0.721347520444 rand 0.194379694927
+***********Mutator: self.rateCromo=0.721347520444 self.rateGene 0.721347520444 rand 0.177232692441
+1
+***********Mutator: self.rateCromo=0.721347520444 self.rateGene 0.05 rand 0.372003278742
+***********Mutator: self.rateCromo=0.721347520444 self.rateGene 0.05 rand 0.30572354728
+***********Mutator: self.rateCromo=0.721347520444 self.rateGene 0.05 rand 0.0470482635207
+***********Mutator: self.rateCromo=0.721347520444 self.rateGene 0.05 rand 0.885073918099
+1
+***********Mutator: self.rateCromo=0.721347520444 self.rateGene 0.05 rand 0.0482063754847
+***********Mutator: self.rateCromo=0.721347520444 self.rateGene 0.05 rand 0.356571550703
+***********Mutator: self.rateCromo=0.721347520444 self.rateGene 0.05 rand 0.383665864037
+***********Mutator: self.rateCromo=0.721347520444 self.rateGene 0.05 rand 0.0965292861952
+1
+***********Mutator: self.rateCromo=0.721347520444 self.rateGene 0.721347520444 rand 0.847391989948
+***********Mutator: self.rateCromo=0.721347520444 self.rateGene 0.721347520444 rand 0.863613303044
+***********Mutator: self.rateCromo=0.721347520444 self.rateGene 0.721347520444 rand 0.126610555583
+***********Mutator: self.rateCromo=0.721347520444 self.rateGene 0.721347520444 rand 0.389507390449
+1
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.05 rand 0.290896792658
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.05 rand 0.931956114741
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.05 rand 0.436563762717
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.05 rand 0.46576698777
+1
+***********Mutator: self.rateCromo=0.721347520444 self.rateGene 0.721347520444 rand 0.803897827535
+***********Mutator: self.rateCromo=0.721347520444 self.rateGene 0.721347520444 rand 0.210524399308
+***********Mutator: self.rateCromo=0.721347520444 self.rateGene 0.721347520444 rand 0.969237816015
+***********Mutator: self.rateCromo=0.721347520444 self.rateGene 0.721347520444 rand 0.0384115794244
+1
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.721347520444 rand 0.287675712725
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.721347520444 rand 0.935460716584
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.721347520444 rand 0.193183859643
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.721347520444 rand 0.378881118128
+1
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.05 rand 0.498520510537
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.05 rand 0.280725077597
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.05 rand 0.655225344048
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.05 rand 0.628924792463
+1
+***********Mutator: self.rateCromo=0.721347520444 self.rateGene 0.05 rand 0.38899161813
+***********Mutator: self.rateCromo=0.721347520444 self.rateGene 0.05 rand 0.0193720245969
+***********Mutator: self.rateCromo=0.721347520444 self.rateGene 0.05 rand 0.259783632838
+***********Mutator: self.rateCromo=0.721347520444 self.rateGene 0.05 rand 0.346425280104
+1
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.05 rand 0.793556396328
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.05 rand 0.169604474014
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.05 rand 0.977419014482
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.05 rand 0.425593068295
+1
+***********Mutator: self.rateCromo=0.721347520444 self.rateGene 0.721347520444 rand 0.185823813234
+***********Mutator: self.rateCromo=0.721347520444 self.rateGene 0.721347520444 rand 0.0557387267003
+***********Mutator: self.rateCromo=0.721347520444 self.rateGene 0.721347520444 rand 0.116990897583
+***********Mutator: self.rateCromo=0.721347520444 self.rateGene 0.721347520444 rand 0.0899872839112
+1
+***********Mutator: self.rateCromo=0.721347520444 self.rateGene 0.721347520444 rand 0.217470336056
+***********Mutator: self.rateCromo=0.721347520444 self.rateGene 0.721347520444 rand 0.524234641937
+***********Mutator: self.rateCromo=0.721347520444 self.rateGene 0.721347520444 rand 0.466394095809
+***********Mutator: self.rateCromo=0.721347520444 self.rateGene 0.721347520444 rand 0.64963134076
+1
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.05 rand 0.365941408227
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.05 rand 0.536058914333
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.05 rand 0.758137113295
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.05 rand 0.885539743644
+1
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.721347520444 rand 0.470990188423
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.721347520444 rand 0.540555754995
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.721347520444 rand 0.810003054885
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.721347520444 rand 0.626332613277
+1
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.721347520444 rand 0.282680262742
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.721347520444 rand 0.434780538968
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.721347520444 rand 0.421219217126
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.721347520444 rand 0.415617792571
+1
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.721347520444 rand 0.141866164053
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.721347520444 rand 0.686272678279
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.721347520444 rand 0.718215474613
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.721347520444 rand 0.746415234984
+**************
+This is generation number:  2
+**************
+~/error_functionNAD2/GaussFiles/reactants ~/error_functionNAD2
+~/error_functionNAD2/GaussFiles/TS_state ~/error_functionNAD2
+1242.829u 10.599s 2:58.20 703.3%	0+0k 0+2215384io 0pf+0w
+~/error_functionNAD2
+2317.043u 23.574s 5:19.34 732.9%	0+0k 0+5579384io 0pf+0w
+~/error_functionNAD2
+grader.pyc:	[['energy', 1.0, 0.7285026668]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/TS_state/TS_state_2.out', mode 'r' at 0x7f63533d9150>	8.08704411244
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_2.out', mode 'r' at 0x7f63533d96f0>	6.49936907725
+outExtractor.pyc:	 Total Energy difference:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_2.out', mode 'r' at 0x7f63533d96f0>	1.58767503519
+~/error_functionNAD2/GaussFiles/TS_state ~/error_functionNAD2
+~/error_functionNAD2/GaussFiles/reactants ~/error_functionNAD2
+379.994u 4.645s 0:54.04 711.7%	0+0k 0+1255712io 0pf+0w
+~/error_functionNAD2
+396.667u 4.273s 0:56.50 709.6%	0+0k 0+1173000io 0pf+0w
+~/error_functionNAD2
+grader.pyc:	[['energy', 1.0, 0.7285026668]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/TS_state/TS_state_3.out', mode 'r' at 0x7f63533d9b70>	1.05763966309
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_3.out', mode 'r' at 0x7f63533dd9c0>	-0.502956042299
+outExtractor.pyc:	 Total Energy difference:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_3.out', mode 'r' at 0x7f63533dd9c0>	1.56059570539
+~/error_functionNAD2/GaussFiles/TS_state ~/error_functionNAD2
+~/error_functionNAD2/GaussFiles/reactants ~/error_functionNAD2
+382.585u 4.475s 0:55.35 699.2%	0+0k 0+1232640io 0pf+0w
+~/error_functionNAD2
+412.169u 4.315s 0:58.24 715.0%	0+0k 0+1095992io 0pf+0w
+~/error_functionNAD2
+grader.pyc:	[['energy', 1.0, 0.7285026668]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/TS_state/TS_state_4.out', mode 'r' at 0x7f63533d96f0>	1.05763966303
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_4.out', mode 'r' at 0x7f63533d9150>	-0.502956042299
+outExtractor.pyc:	 Total Energy difference:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_4.out', mode 'r' at 0x7f63533d9150>	1.56059570532
+~/error_functionNAD2/GaussFiles/reactants ~/error_functionNAD2
+~/error_functionNAD2/GaussFiles/TS_state ~/error_functionNAD2
+380.069u 4.430s 0:53.71 715.8%	0+0k 0+1255688io 0pf+0w
+~/error_functionNAD2
+401.397u 4.261s 0:57.07 710.7%	0+0k 0+1172312io 0pf+0w
+~/error_functionNAD2
+grader.pyc:	[['energy', 1.0, 0.7285026668]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/TS_state/TS_state_5.out', mode 'r' at 0x7f63533d9b70>	1.05763966299
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_5.out', mode 'r' at 0x7f63533dd9c0>	-0.502956042299
+outExtractor.pyc:	 Total Energy difference:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_5.out', mode 'r' at 0x7f63533dd9c0>	1.56059570529
+~/error_functionNAD2/GaussFiles/TS_state ~/error_functionNAD2
+~/error_functionNAD2/GaussFiles/reactants ~/error_functionNAD2
+312.207u 6.418s 0:51.62 617.2%	0+0k 0+449992io 0pf+0w
+~/error_functionNAD2
+1546.924u 18.352s 3:42.19 704.4%	0+0k 0+2365728io 0pf+0w
+~/error_functionNAD2
+grader.pyc:	[['energy', 1.0, 0.7285026668]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/TS_state/TS_state_6.out', mode 'r' at 0x7f63533d9150>	42.9613635254
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_6.out', mode 'r' at 0x7f63533d96f0>	36.8282587223
+outExtractor.pyc:	 Total Energy difference:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_6.out', mode 'r' at 0x7f63533d96f0>	6.13310480304
+~/error_functionNAD2/GaussFiles/reactants ~/error_functionNAD2
+~/error_functionNAD2/GaussFiles/TS_state ~/error_functionNAD2
+410.416u 4.295s 0:57.57 720.3%	0+0k 0+1256672io 0pf+0w
+~/error_functionNAD2
+468.183u 4.195s 1:04.93 727.5%	0+0k 0+1116104io 0pf+0w
+~/error_functionNAD2
+grader.pyc:	[['energy', 1.0, 0.7285026668]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/TS_state/TS_state_7.out', mode 'r' at 0x7f63533d9b70>	1.05763966299
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_7.out', mode 'r' at 0x7f63533dd9c0>	-0.502956042299
+outExtractor.pyc:	 Total Energy difference:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_7.out', mode 'r' at 0x7f63533dd9c0>	1.56059570529
+~/error_functionNAD2/GaussFiles/reactants ~/error_functionNAD2
+~/error_functionNAD2/GaussFiles/TS_state ~/error_functionNAD2
+386.175u 4.536s 0:55.12 708.8%	0+0k 0+1256024io 0pf+0w
+~/error_functionNAD2
+409.101u 4.523s 0:57.66 717.3%	0+0k 0+1096000io 0pf+0w
+~/error_functionNAD2
+grader.pyc:	[['energy', 1.0, 0.7285026668]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/TS_state/TS_state_8.out', mode 'r' at 0x7f63533d96f0>	1.05763966296
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_8.out', mode 'r' at 0x7f63533d9150>	-0.502956042299
+outExtractor.pyc:	 Total Energy difference:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_8.out', mode 'r' at 0x7f63533d9150>	1.56059570526
+~/error_functionNAD2/GaussFiles/reactants ~/error_functionNAD2
+~/error_functionNAD2/GaussFiles/TS_state ~/error_functionNAD2
+376.700u 4.559s 0:53.52 712.3%	0+0k 0+1255704io 0pf+0w
+~/error_functionNAD2
+402.781u 4.158s 0:57.43 708.5%	0+0k 0+1173656io 0pf+0w
+~/error_functionNAD2
+grader.pyc:	[['energy', 1.0, 0.7285026668]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/TS_state/TS_state_9.out', mode 'r' at 0x7f63533d9b70>	1.05763966296
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_9.out', mode 'r' at 0x7f63533dd9c0>	-0.502956042299
+outExtractor.pyc:	 Total Energy difference:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_9.out', mode 'r' at 0x7f63533dd9c0>	1.56059570526
+~/error_functionNAD2/GaussFiles/TS_state ~/error_functionNAD2
+~/error_functionNAD2/GaussFiles/reactants ~/error_functionNAD2
+775.726u 9.627s 1:56.64 673.3%	0+0k 0+2120992io 0pf+0w
+~/error_functionNAD2
+20143.722u 158.438s 48:28.03 698.1%	0+0k 0+16409480io 0pf+0w
+~/error_functionNAD2
+grader.pyc:	[['energy', 1.0, 0.7285026668]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/TS_state/TS_state_10.out', mode 'r' at 0x7f63533d9150>	-69.4036189369
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_10.out', mode 'r' at 0x7f63533d96f0>	-71.4447747665
+outExtractor.pyc:	 Total Energy difference:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_10.out', mode 'r' at 0x7f63533d96f0>	2.04115582961
+~/error_functionNAD2/GaussFiles/reactants ~/error_functionNAD2
+~/error_functionNAD2/GaussFiles/TS_state ~/error_functionNAD2
+381.449u 4.394s 0:53.96 715.0%	0+0k 0+1234088io 0pf+0w
+~/error_functionNAD2
+405.197u 4.322s 0:57.83 708.1%	0+0k 0+1173608io 0pf+0w
+~/error_functionNAD2
+grader.pyc:	[['energy', 1.0, 0.7285026668]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/TS_state/TS_state_11.out', mode 'r' at 0x7f63533d9b70>	1.05763966314
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_11.out', mode 'r' at 0x7f63533dd9c0>	-0.502956042299
+outExtractor.pyc:	 Total Energy difference:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_11.out', mode 'r' at 0x7f63533dd9c0>	1.56059570544
+~/error_functionNAD2/GaussFiles/reactants ~/error_functionNAD2
+~/error_functionNAD2/GaussFiles/TS_state ~/error_functionNAD2
+403.288u 5.573s 1:07.28 607.6%	0+0k 0+1302840io 0pf+0w
+~/error_functionNAD2
+4602.683u 41.107s 11:08.70 694.4%	0+0k 0+5967296io 0pf+0w
+~/error_functionNAD2
+grader.pyc:	[['energy', 1.0, 0.7285026668]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/TS_state/TS_state_12.out', mode 'r' at 0x7f63533d96f0>	295.810748025
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_12.out', mode 'r' at 0x7f63533d9150>	286.155323248
+outExtractor.pyc:	 Total Energy difference:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_12.out', mode 'r' at 0x7f63533d9150>	9.65542477787
+~/error_functionNAD2/GaussFiles/reactants ~/error_functionNAD2
+~/error_functionNAD2/GaussFiles/TS_state ~/error_functionNAD2
+434.209u 5.647s 1:10.11 627.3%	0+0k 0+1257704io 0pf+0w
+~/error_functionNAD2
+11344.020u 95.947s 27:29.60 693.4%	0+0k 0+13874032io 0pf+0w
+~/error_functionNAD2
+grader.pyc:	[['energy', 1.0, 0.7285026668]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/TS_state/TS_state_13.out', mode 'r' at 0x7f63533d9b70>	25.528805686
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_13.out', mode 'r' at 0x7f63533dd9c0>	20.6214333123
+outExtractor.pyc:	 Total Energy difference:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_13.out', mode 'r' at 0x7f63533dd9c0>	4.90737237364
+~/error_functionNAD2/GaussFiles/TS_state ~/error_functionNAD2
+~/error_functionNAD2/GaussFiles/reactants ~/error_functionNAD2
+1057.799u 9.100s 2:30.40 709.3%	0+0k 0+2728648io 0pf+0w
+~/error_functionNAD2
+2565.604u 26.136s 5:55.83 728.3%	0+0k 0+6550056io 0pf+0w
+~/error_functionNAD2
+grader.pyc:	[['energy', 1.0, 0.7285026668]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/TS_state/TS_state_14.out', mode 'r' at 0x7f63533d9150>	1.08806956896
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_14.out', mode 'r' at 0x7f63533d96f0>	-0.464698301539
+outExtractor.pyc:	 Total Energy difference:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_14.out', mode 'r' at 0x7f63533d96f0>	1.5527678705
+~/error_functionNAD2/GaussFiles/TS_state ~/error_functionNAD2
+~/error_functionNAD2/GaussFiles/reactants ~/error_functionNAD2
+373.890u 4.503s 0:53.42 708.3%	0+0k 0+1255704io 0pf+0w
+~/error_functionNAD2
+398.223u 4.641s 0:56.97 707.1%	0+0k 0+1173648io 0pf+0w
+~/error_functionNAD2
+grader.pyc:	[['energy', 1.0, 0.7285026668]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/TS_state/TS_state_15.out', mode 'r' at 0x7f63533d9b70>	1.05763966299
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_15.out', mode 'r' at 0x7f63533dd9c0>	-0.502956042299
+outExtractor.pyc:	 Total Energy difference:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_15.out', mode 'r' at 0x7f63533dd9c0>	1.56059570529
+~/error_functionNAD2/GaussFiles/TS_state ~/error_functionNAD2
+~/error_functionNAD2/GaussFiles/reactants ~/error_functionNAD2
+1632.497u 18.007s 3:53.25 707.6%	0+0k 0+4297648io 0pf+0w
+~/error_functionNAD2
+32772.780u 258.677s 1:18:42.57 699.4%	0+0k 0+26037088io 0pf+0w
+~/error_functionNAD2
+grader.pyc:	[['energy', 1.0, 0.7285026668]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/TS_state/TS_state_16.out', mode 'r' at 0x7f63533d96f0>	49.5161664284
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_16.out', mode 'r' at 0x7f63533d9150>	47.7092227495
+outExtractor.pyc:	 Total Energy difference:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_16.out', mode 'r' at 0x7f63533d9150>	1.80694367896
+~/error_functionNAD2/GaussFiles/reactants ~/error_functionNAD2
+~/error_functionNAD2/GaussFiles/TS_state ~/error_functionNAD2
+615.122u 5.879s 1:26.64 716.7%	0+0k 0+1679608io 0pf+0w
+~/error_functionNAD2
+1082.554u 12.131s 2:31.28 723.6%	0+0k 0+3466312io 0pf+0w
+~/error_functionNAD2
+grader.pyc:	[['energy', 1.0, 0.7285026668]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/TS_state/TS_state_17.out', mode 'r' at 0x7f63533d9b70>	1.67171315662
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_17.out', mode 'r' at 0x7f63533dd9c0>	0.102181758944
+outExtractor.pyc:	 Total Energy difference:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_17.out', mode 'r' at 0x7f63533dd9c0>	1.56953139768
+~/error_functionNAD2/GaussFiles/reactants ~/error_functionNAD2
+~/error_functionNAD2/GaussFiles/TS_state ~/error_functionNAD2
+1738.810u 14.973s 4:10.35 700.5%	0+0k 0+3318232io 0pf+0w
+~/error_functionNAD2
+2227.655u 23.517s 5:07.89 731.1%	0+0k 0+5684304io 0pf+0w
+~/error_functionNAD2
+grader.pyc:	[['energy', 1.0, 0.7285026668]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/TS_state/TS_state_18.out', mode 'r' at 0x7f63533d9150>	-3.99161191419
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_18.out', mode 'r' at 0x7f63533d96f0>	-5.5472753316
+outExtractor.pyc:	 Total Energy difference:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_18.out', mode 'r' at 0x7f63533d96f0>	1.55566341741
+~/error_functionNAD2/GaussFiles/TS_state ~/error_functionNAD2
+~/error_functionNAD2/GaussFiles/reactants ~/error_functionNAD2
+1526.761u 17.632s 3:40.09 701.7%	0+0k 0+4444920io 0pf+0w
+~/error_functionNAD2
+18196.612u 148.176s 43:49.43 697.6%	0+0k 0+20326288io 0pf+0w
+~/error_functionNAD2
+grader.pyc:	[['energy', 1.0, 0.7285026668]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/TS_state/TS_state_19.out', mode 'r' at 0x7f63533d9b70>	6.54062617334
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_19.out', mode 'r' at 0x7f63533dd9c0>	5.04388204564
+outExtractor.pyc:	 Total Energy difference:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_19.out', mode 'r' at 0x7f63533dd9c0>	1.4967441277
+~/error_functionNAD2/GaussFiles/TS_state ~/error_functionNAD2
+~/error_functionNAD2/GaussFiles/reactants ~/error_functionNAD2
+381.280u 4.578s 0:54.94 702.3%	0+0k 0+1255664io 0pf+0w
+~/error_functionNAD2
+424.197u 4.397s 0:59.73 717.5%	0+0k 0+1096896io 0pf+0w
+~/error_functionNAD2
+grader.pyc:	[['energy', 1.0, 0.7285026668]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/TS_state/TS_state_20.out', mode 'r' at 0x7f63533d96f0>	1.05763966295
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_20.out', mode 'r' at 0x7f63533d9150>	-0.502956042299
+outExtractor.pyc:	 Total Energy difference:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_20.out', mode 'r' at 0x7f63533d9150>	1.56059570525
+~/error_functionNAD2/GaussFiles/reactants ~/error_functionNAD2
+~/error_functionNAD2/GaussFiles/TS_state ~/error_functionNAD2
+378.310u 5.602s 1:02.02 619.0%	0+0k 0+1256888io 0pf+0w
+~/error_functionNAD2
+14413.821u 118.294s 34:49.14 695.6%	0+0k 0+15276240io 0pf+0w
+~/error_functionNAD2
+grader.pyc:	[['energy', 1.0, 0.7285026668]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/TS_state/TS_state_21.out', mode 'r' at 0x7f63533d9b70>	-260.706492445
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_21.out', mode 'r' at 0x7f63533dd9c0>	-263.07105576
+outExtractor.pyc:	 Total Energy difference:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_21.out', mode 'r' at 0x7f63533dd9c0>	2.36456331536
+~/error_functionNAD2/GaussFiles/reactants ~/error_functionNAD2
+~/error_functionNAD2/GaussFiles/TS_state ~/error_functionNAD2
+378.007u 4.544s 0:54.43 702.8%	0+0k 0+1257376io 0pf+0w
+~/error_functionNAD2
+401.386u 4.255s 0:57.59 704.3%	0+0k 0+1095968io 0pf+0w
+~/error_functionNAD2
+grader.pyc:	[['energy', 1.0, 0.7285026668]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/TS_state/TS_state_22.out', mode 'r' at 0x7f63533d9150>	1.05763966298
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_22.out', mode 'r' at 0x7f63533d96f0>	-0.502956042299
+outExtractor.pyc:	 Total Energy difference:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_22.out', mode 'r' at 0x7f63533d96f0>	1.56059570528
+~/error_functionNAD2/GaussFiles/reactants ~/error_functionNAD2
+~/error_functionNAD2/GaussFiles/TS_state ~/error_functionNAD2
+374.878u 4.453s 0:52.89 717.1%	0+0k 0+1244688io 0pf+0w
+~/error_functionNAD2
+398.502u 4.300s 0:56.11 717.8%	0+0k 0+1097496io 0pf+0w
+~/error_functionNAD2
+grader.pyc:	[['energy', 1.0, 0.7285026668]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/TS_state/TS_state_23.out', mode 'r' at 0x7f63533d9b70>	1.057639663
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_23.out', mode 'r' at 0x7f63533dd9c0>	-0.502956042299
+outExtractor.pyc:	 Total Energy difference:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_23.out', mode 'r' at 0x7f63533dd9c0>	1.5605957053
+~/error_functionNAD2/GaussFiles/TS_state ~/error_functionNAD2
+~/error_functionNAD2/GaussFiles/reactants ~/error_functionNAD2
+1522.209u 17.748s 3:39.69 700.9%	0+0k 0+4235448io 0pf+0w
+~/error_functionNAD2
+2570.400u 20.885s 6:08.09 703.9%	0+0k 0+4599536io 0pf+0w
+~/error_functionNAD2
+grader.pyc:	[['energy', 1.0, 0.7285026668]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/TS_state/TS_state_24.out', mode 'r' at 0x7f63533d96f0>	49.6077096119
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_24.out', mode 'r' at 0x7f63533d9150>	47.9306212635
+outExtractor.pyc:	 Total Energy difference:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_24.out', mode 'r' at 0x7f63533d9150>	1.67708834837
+~/error_functionNAD2/GaussFiles/reactants ~/error_functionNAD2
+~/error_functionNAD2/GaussFiles/TS_state ~/error_functionNAD2
+389.314u 4.573s 0:54.75 719.4%	0+0k 0+1256624io 0pf+0w
+~/error_functionNAD2
+404.713u 4.347s 0:57.18 715.3%	0+0k 0+1097296io 0pf+0w
+~/error_functionNAD2
+grader.pyc:	[['energy', 1.0, 0.7285026668]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/TS_state/TS_state_25.out', mode 'r' at 0x7f63533d9b70>	1.05763966301
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_25.out', mode 'r' at 0x7f63533dd9c0>	-0.502956042299
+outExtractor.pyc:	 Total Energy difference:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_25.out', mode 'r' at 0x7f63533dd9c0>	1.56059570531
+~/error_functionNAD2/GaussFiles/reactants ~/error_functionNAD2
+~/error_functionNAD2/GaussFiles/TS_state ~/error_functionNAD2
+384.700u 5.709s 1:03.17 618.0%	0+0k 0+1255792io 0pf+0w
+~/error_functionNAD2
+14691.383u 129.487s 35:15.20 700.6%	0+0k 0+22169120io 0pf+0w
+~/error_functionNAD2
+grader.pyc:	[['energy', 1.0, 0.7285026668]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/TS_state/TS_state_26.out', mode 'r' at 0x7f63533d9150>	-223.944091823
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_26.out', mode 'r' at 0x7f63533d96f0>	-229.749448383
+outExtractor.pyc:	 Total Energy difference:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_26.out', mode 'r' at 0x7f63533d96f0>	5.80535655987
+~/error_functionNAD2/GaussFiles/reactants ~/error_functionNAD2
+~/error_functionNAD2/GaussFiles/TS_state ~/error_functionNAD2
+789.362u 9.892s 2:02.42 652.8%	0+0k 0+2354816io 0pf+0w
+~/error_functionNAD2
+34685.874u 278.136s 1:23:11.39 700.4%	0+0k 0+30007784io 0pf+0w
+~/error_functionNAD2
+grader.pyc:	[['energy', 1.0, 0.7285026668]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/TS_state/TS_state_27.out', mode 'r' at 0x7f63533d9b70>	-12.2185310629
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_27.out', mode 'r' at 0x7f63533dd9c0>	-13.6281327293
+outExtractor.pyc:	 Total Energy difference:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_27.out', mode 'r' at 0x7f63533dd9c0>	1.40960166638
+~/error_functionNAD2/GaussFiles/reactants ~/error_functionNAD2
+~/error_functionNAD2/GaussFiles/TS_state ~/error_functionNAD2
+373.598u 4.589s 0:52.67 717.9%	0+0k 0+1256688io 0pf+0w
+~/error_functionNAD2
+394.932u 4.241s 0:55.83 714.9%	0+0k 0+1097512io 0pf+0w
+~/error_functionNAD2
+grader.pyc:	[['energy', 1.0, 0.7285026668]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/TS_state/TS_state_28.out', mode 'r' at 0x7f63533d96f0>	1.05763966311
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_28.out', mode 'r' at 0x7f63533d9150>	-0.502956042299
+outExtractor.pyc:	 Total Energy difference:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_28.out', mode 'r' at 0x7f63533d9150>	1.5605957054
+~/error_functionNAD2/GaussFiles/TS_state ~/error_functionNAD2
+~/error_functionNAD2/GaussFiles/reactants ~/error_functionNAD2
+384.103u 4.599s 0:54.66 711.1%	0+0k 0+1243912io 0pf+0w
+398.902u 4.365s 0:57.07 706.6%	0+0k 0+1173648io 0pf+0w
+~/error_functionNAD2
+~/error_functionNAD2
+grader.pyc:	[['energy', 1.0, 0.7285026668]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/TS_state/TS_state_29.out', mode 'r' at 0x7f63533d9b70>	1.05763966297
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_29.out', mode 'r' at 0x7f63533dd9c0>	-0.502956042299
+outExtractor.pyc:	 Total Energy difference:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_29.out', mode 'r' at 0x7f63533dd9c0>	1.56059570527
+~/error_functionNAD2/GaussFiles/reactants ~/error_functionNAD2
+~/error_functionNAD2/GaussFiles/TS_state ~/error_functionNAD2
+379.763u 4.625s 0:55.18 696.5%	0+0k 0+1255712io 0pf+0w
+~/error_functionNAD2
+407.536u 4.368s 0:58.65 702.2%	0+0k 0+1172200io 0pf+0w
+~/error_functionNAD2
+grader.pyc:	[['energy', 1.0, 0.7285026668]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/TS_state/TS_state_30.out', mode 'r' at 0x7f63533d9150>	1.05763966299
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_30.out', mode 'r' at 0x7f63533d96f0>	-0.502956042299
+outExtractor.pyc:	 Total Energy difference:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_30.out', mode 'r' at 0x7f63533d96f0>	1.56059570529
+~/error_functionNAD2/GaussFiles/reactants ~/error_functionNAD2
+~/error_functionNAD2/GaussFiles/TS_state ~/error_functionNAD2
+376.034u 4.354s 0:52.95 718.3%	0+0k 0+1255704io 0pf+0w
+~/error_functionNAD2
+394.070u 4.442s 0:55.63 716.3%	0+0k 0+1097528io 0pf+0w
+~/error_functionNAD2
+grader.pyc:	[['energy', 1.0, 0.7285026668]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/TS_state/TS_state_31.out', mode 'r' at 0x7f63533d9b70>	1.05763966291
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_31.out', mode 'r' at 0x7f63533dd9c0>	-0.502956042299
+outExtractor.pyc:	 Total Energy difference:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_31.out', mode 'r' at 0x7f63533dd9c0>	1.56059570521
+[41mTEST: inCounter:32 GradeList: ['0.681098999582    27', '0.768241460903    19', '0.824265203696    14', '0.82716075061    18', '0.832093038413    31', '0.832093038451    20', '0.832093038457    9', '0.832093038462    8', '0.832093038468    29', '0.832093038476    22', '0.832093038487    7', '0.832093038492    5', '0.832093038492    15', '0.832093038492    30', '0.8320930385    23', '0.832093038506    25', '0.832093038525    4', '0.832093038593    3', '0.832093038604    28', '0.832093038637    11', '0.841028730878    17', '0.859172368394    2', '0.948585681567    24', '1.07844101216    16', '1.31265316281    10', '1.63606064856    21', '4.17886970684    13', '5.07685389307    26', '5.40460213624    6', '8.92692211107    12'][0m
+2
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.05 rand 0.554954946352
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.05 rand 0.543953013866
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.05 rand 0.67993216596
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.05 rand 0.402171854647
+2
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.05 rand 0.995125067581
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.05 rand 0.20624252601
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.05 rand 0.178194710918
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.05 rand 0.584651011984
+2
+***********Mutator: self.rateCromo=0.455119613313 self.rateGene 0.455119613313 rand 0.142315864707
+***********Mutator: self.rateCromo=0.455119613313 self.rateGene 0.455119613313 rand 0.527152445204
+***********Mutator: self.rateCromo=0.455119613313 self.rateGene 0.455119613313 rand 0.952678271435
+***********Mutator: self.rateCromo=0.455119613313 self.rateGene 0.455119613313 rand 0.651973263595
+2
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.455119613313 rand 0.112373736854
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.455119613313 rand 0.0574044534867
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.455119613313 rand 0.120786582725
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.455119613313 rand 0.298349319682
+2
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.455119613313 rand 0.131302240682
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.455119613313 rand 0.238688494534
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.455119613313 rand 0.826007681628
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.455119613313 rand 0.366901622872
+2
+***********Mutator: self.rateCromo=0.455119613313 self.rateGene 0.05 rand 0.43792869708
+***********Mutator: self.rateCromo=0.455119613313 self.rateGene 0.05 rand 0.747463473016
+***********Mutator: self.rateCromo=0.455119613313 self.rateGene 0.05 rand 0.996607030093
+***********Mutator: self.rateCromo=0.455119613313 self.rateGene 0.05 rand 0.113090636963
+2
+***********Mutator: self.rateCromo=0.455119613313 self.rateGene 0.455119613313 rand 0.602667928305
+***********Mutator: self.rateCromo=0.455119613313 self.rateGene 0.455119613313 rand 0.333758540927
+***********Mutator: self.rateCromo=0.455119613313 self.rateGene 0.455119613313 rand 0.626602216709
+***********Mutator: self.rateCromo=0.455119613313 self.rateGene 0.455119613313 rand 0.938714981439
+2
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.455119613313 rand 0.482394658298
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.455119613313 rand 0.32585702153
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.455119613313 rand 0.171148345912
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.455119613313 rand 0.696391611337
+2
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.05 rand 0.067085638932
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.05 rand 0.6742987469
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.05 rand 0.00687863047293
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.05 rand 0.160323997737
+2
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.05 rand 0.797879171451
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.05 rand 0.243007411257
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.05 rand 0.191824375932
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.05 rand 0.934998434662
+2
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.05 rand 0.8210770823
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.05 rand 0.126961673294
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.05 rand 0.358744353982
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.05 rand 0.917774875529
+2
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.455119613313 rand 0.304717943883
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.455119613313 rand 0.201363919505
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.455119613313 rand 0.82431000102
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.455119613313 rand 0.922118322212
+2
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.05 rand 0.959084856331
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.05 rand 0.379544420875
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.05 rand 0.804764443109
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.05 rand 0.00956238455249
+2
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.455119613313 rand 0.886335121197
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.455119613313 rand 0.966420060869
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.455119613313 rand 0.462486484032
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.455119613313 rand 0.0767936537255
+2
+***********Mutator: self.rateCromo=0.455119613313 self.rateGene 0.05 rand 0.163232096936
+***********Mutator: self.rateCromo=0.455119613313 self.rateGene 0.05 rand 0.728278289208
+***********Mutator: self.rateCromo=0.455119613313 self.rateGene 0.05 rand 0.861178176621
+***********Mutator: self.rateCromo=0.455119613313 self.rateGene 0.05 rand 0.671265415439
+2
+***********Mutator: self.rateCromo=0.455119613313 self.rateGene 0.455119613313 rand 0.312485392674
+***********Mutator: self.rateCromo=0.455119613313 self.rateGene 0.455119613313 rand 0.528320466097
+***********Mutator: self.rateCromo=0.455119613313 self.rateGene 0.455119613313 rand 0.106573467621
+***********Mutator: self.rateCromo=0.455119613313 self.rateGene 0.455119613313 rand 0.700523212236
+2
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.455119613313 rand 0.534528648779
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.455119613313 rand 0.00804815190426
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.455119613313 rand 0.999835823694
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.455119613313 rand 0.38847287168
+2
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.05 rand 0.497803130897
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.05 rand 0.433556964707
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.05 rand 0.509091129881
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.05 rand 0.705850899797
+2
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.05 rand 0.921820617278
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.05 rand 0.866162888662
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.05 rand 0.391262588689
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.05 rand 0.105296837761
+2
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.05 rand 0.228814541662
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.05 rand 0.930364496769
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.05 rand 0.649545724884
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.05 rand 0.541651104579
+2
+***********Mutator: self.rateCromo=0.455119613313 self.rateGene 0.05 rand 0.727487862008
+***********Mutator: self.rateCromo=0.455119613313 self.rateGene 0.05 rand 0.744188525815
+***********Mutator: self.rateCromo=0.455119613313 self.rateGene 0.05 rand 0.823458380428
+***********Mutator: self.rateCromo=0.455119613313 self.rateGene 0.05 rand 0.893189401828
+2
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.455119613313 rand 0.0415071714214
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.455119613313 rand 0.390239654306
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.455119613313 rand 0.476644097714
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.455119613313 rand 0.715843122957
+2
+***********Mutator: self.rateCromo=0.455119613313 self.rateGene 0.455119613313 rand 0.275902932095
+***********Mutator: self.rateCromo=0.455119613313 self.rateGene 0.455119613313 rand 0.44981808859
+***********Mutator: self.rateCromo=0.455119613313 self.rateGene 0.455119613313 rand 0.219036861568
+***********Mutator: self.rateCromo=0.455119613313 self.rateGene 0.455119613313 rand 0.455275394301
+**************
+This is generation number:  3
+**************
+~/error_functionNAD2/GaussFiles/reactants ~/error_functionNAD2
+~/error_functionNAD2/GaussFiles/TS_state ~/error_functionNAD2
+2824.403u 29.103s 6:29.04 733.4%	0+0k 0+7680144io 0pf+0w
+~/error_functionNAD2
+2949.283u 24.630s 7:05.35 699.1%	0+0k 0+5140120io 0pf+0w
+~/error_functionNAD2
+grader.pyc:	[['energy', 1.0, 0.7285026668]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/TS_state/TS_state_32.out', mode 'r' at 0x7f63533d96f0>	-6.32925710943
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_32.out', mode 'r' at 0x7f63533d9150>	-7.86678169052
+outExtractor.pyc:	 Total Energy difference:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_32.out', mode 'r' at 0x7f63533d9150>	1.53752458109
+~/error_functionNAD2/GaussFiles/reactants ~/error_functionNAD2
+~/error_functionNAD2/GaussFiles/TS_state ~/error_functionNAD2
+371.150u 4.549s 0:52.95 709.5%	0+0k 0+1244200io 0pf+0w
+~/error_functionNAD2
+410.827u 4.301s 0:57.92 716.7%	0+0k 0+1161080io 0pf+0w
+~/error_functionNAD2
+grader.pyc:	[['energy', 1.0, 0.7285026668]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/TS_state/TS_state_33.out', mode 'r' at 0x7f63533d9b70>	1.05763966299
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_33.out', mode 'r' at 0x7f63533dd9c0>	-0.502956042299
+outExtractor.pyc:	 Total Energy difference:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_33.out', mode 'r' at 0x7f63533dd9c0>	1.56059570529
+~/error_functionNAD2/GaussFiles/reactants ~/error_functionNAD2
+~/error_functionNAD2/GaussFiles/TS_state ~/error_functionNAD2
+5791.094u 59.686s 13:19.57 731.7%	0+0k 0+13514312io 0pf+0w
+~/error_functionNAD2
+54632.364u 434.100s 2:11:06.41 700.0%	0+0k 0+38604848io 0pf+0w
+~/error_functionNAD2
+grader.pyc:	[['energy', 1.0, 0.7285026668]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/TS_state/TS_state_34.out', mode 'r' at 0x7f63533d9150>	45.6402131537
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_34.out', mode 'r' at 0x7f63533d96f0>	44.1304972021
+outExtractor.pyc:	 Total Energy difference:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_34.out', mode 'r' at 0x7f63533d96f0>	1.50971595167
+~/error_functionNAD2/GaussFiles/reactants ~/error_functionNAD2
+~/error_functionNAD2/GaussFiles/TS_state ~/error_functionNAD2
+1568.056u 17.846s 3:45.99 701.7%	0+0k 0+4681032io 0pf+0w
+~/error_functionNAD2
+8948.152u 73.442s 21:38.29 694.8%	0+0k 0+12783152io 0pf+0w
+~/error_functionNAD2
+grader.pyc:	[['energy', 1.0, 0.7285026668]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/TS_state/TS_state_35.out', mode 'r' at 0x7f63533d9b70>	6.54062617326
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_35.out', mode 'r' at 0x7f63533dd9c0>	5.0531386048
+outExtractor.pyc:	 Total Energy difference:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_35.out', mode 'r' at 0x7f63533dd9c0>	1.48748756845
+~/error_functionNAD2/GaussFiles/reactants ~/error_functionNAD2
+~/error_functionNAD2/GaussFiles/TS_state ~/error_functionNAD2
+735.743u 9.346s 1:51.73 666.8%	0+0k 0+2186456io 0pf+0w
+~/error_functionNAD2
+23836.397u 188.795s 57:25.00 697.3%	0+0k 0+20116640io 0pf+0w
+~/error_functionNAD2
+grader.pyc:	[['energy', 1.0, 0.7285026668]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/TS_state/TS_state_36.out', mode 'r' at 0x7f63533d96f0>	-12.218531063
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_36.out', mode 'r' at 0x7f63533d9150>	-13.6236019592
+outExtractor.pyc:	 Total Energy difference:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_36.out', mode 'r' at 0x7f63533d9150>	1.40507089624
+~/error_functionNAD2/GaussFiles/reactants ~/error_functionNAD2
+~/error_functionNAD2/GaussFiles/TS_state ~/error_functionNAD2
+412.832u 5.477s 1:08.52 610.4%	0+0k 0+1176912io 0pf+0w
+~/error_functionNAD2
+1382.613u 12.333s 3:17.58 706.0%	0+0k 0+2711696io 0pf+0w
+~/error_functionNAD2
+grader.pyc:	[['energy', 1.0, 0.7285026668]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/TS_state/TS_state_37.out', mode 'r' at 0x7f63533d9b70>	3.95336106982
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_37.out', mode 'r' at 0x7f63533dd9c0>	2.37576225038
+outExtractor.pyc:	 Total Energy difference:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_37.out', mode 'r' at 0x7f63533dd9c0>	1.57759881944
+~/error_functionNAD2/GaussFiles/reactants ~/error_functionNAD2
+~/error_functionNAD2/GaussFiles/TS_state ~/error_functionNAD2
+1816.591u 19.548s 4:12.72 726.5%	0+0k 0+5273456io 0pf+0w
+~/error_functionNAD2
+2174.469u 18.399s 5:12.07 702.6%	0+0k 0+4135312io 0pf+0w
+~/error_functionNAD2
+grader.pyc:	[['energy', 1.0, 0.7285026668]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/TS_state/TS_state_38.out', mode 'r' at 0x7f63533d9150>	-31.2262239346
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_38.out', mode 'r' at 0x7f63533d96f0>	-32.8421898873
+outExtractor.pyc:	 Total Energy difference:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_38.out', mode 'r' at 0x7f63533d96f0>	1.61596595268
+~/error_functionNAD2/GaussFiles/TS_state ~/error_functionNAD2
+~/error_functionNAD2/GaussFiles/reactants ~/error_functionNAD2
+380.719u 4.443s 0:53.79 716.0%	0+0k 0+1232328io 0pf+0w
+~/error_functionNAD2
+404.546u 4.540s 0:57.90 706.5%	0+0k 0+1151568io 0pf+0w
+~/error_functionNAD2
+grader.pyc:	[['energy', 1.0, 0.7285026668]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/TS_state/TS_state_39.out', mode 'r' at 0x7f63533d9b70>	1.05763966296
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_39.out', mode 'r' at 0x7f63533dd9c0>	-0.502956042299
+outExtractor.pyc:	 Total Energy difference:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_39.out', mode 'r' at 0x7f63533dd9c0>	1.56059570526
+~/error_functionNAD2/GaussFiles/TS_state ~/error_functionNAD2
+~/error_functionNAD2/GaussFiles/reactants ~/error_functionNAD2
+581.095u 6.166s 1:24.72 693.1%	0+0k 0+1602904io 0pf+0w
+~/error_functionNAD2
+1082.517u 11.422s 2:31.38 722.6%	0+0k 0+3543096io 0pf+0w
+~/error_functionNAD2
+grader.pyc:	[['energy', 1.0, 0.7285026668]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/TS_state/TS_state_40.out', mode 'r' at 0x7f63533d96f0>	1.37607218701
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_40.out', mode 'r' at 0x7f63533d9150>	-0.180772677798
+outExtractor.pyc:	 Total Energy difference:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_40.out', mode 'r' at 0x7f63533d9150>	1.55684486481
+~/error_functionNAD2/GaussFiles/TS_state ~/error_functionNAD2
+~/error_functionNAD2/GaussFiles/reactants ~/error_functionNAD2
+381.767u 4.438s 0:54.05 714.5%	0+0k 0+1244168io 0pf+0w
+~/error_functionNAD2
+402.205u 4.313s 0:56.68 717.2%	0+0k 0+1173672io 0pf+0w
+~/error_functionNAD2
+grader.pyc:	[['energy', 1.0, 0.7285026668]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/TS_state/TS_state_41.out', mode 'r' at 0x7f63533d9b70>	1.05763966299
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_41.out', mode 'r' at 0x7f63533dd9c0>	-0.502956042299
+outExtractor.pyc:	 Total Energy difference:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_41.out', mode 'r' at 0x7f63533dd9c0>	1.56059570529
+~/error_functionNAD2/GaussFiles/TS_state ~/error_functionNAD2
+~/error_functionNAD2/GaussFiles/reactants ~/error_functionNAD2
+374.321u 4.485s 0:53.27 711.0%	0+0k 0+1256624io 0pf+0w
+~/error_functionNAD2
+397.345u 4.373s 0:56.51 710.8%	0+0k 0+1097464io 0pf+0w
+~/error_functionNAD2
+grader.pyc:	[['energy', 1.0, 0.7285026668]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/TS_state/TS_state_42.out', mode 'r' at 0x7f63533d9150>	1.05763966307
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_42.out', mode 'r' at 0x7f63533d96f0>	-0.502956042299
+outExtractor.pyc:	 Total Energy difference:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_42.out', mode 'r' at 0x7f63533d96f0>	1.56059570537
+~/error_functionNAD2/GaussFiles/TS_state ~/error_functionNAD2
+~/error_functionNAD2/GaussFiles/reactants ~/error_functionNAD2
+383.645u 4.644s 0:55.62 698.0%	0+0k 0+1255992io 0pf+0w
+405.845u 4.308s 0:59.32 691.4%	0+0k 0+1096032io 0pf+0w
+~/error_functionNAD2
+~/error_functionNAD2
+grader.pyc:	[['energy', 1.0, 0.7285026668]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/TS_state/TS_state_43.out', mode 'r' at 0x7f63533d9b70>	1.05763966296
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_43.out', mode 'r' at 0x7f63533dd9c0>	-0.502956042299
+outExtractor.pyc:	 Total Energy difference:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_43.out', mode 'r' at 0x7f63533dd9c0>	1.56059570526
+~/error_functionNAD2/GaussFiles/TS_state ~/error_functionNAD2
+~/error_functionNAD2/GaussFiles/reactants ~/error_functionNAD2
+372.334u 4.467s 0:53.36 706.1%	0+0k 0+1258608io 0pf+0w
+~/error_functionNAD2
+398.228u 4.554s 0:57.00 706.6%	0+0k 0+1096016io 0pf+0w
+~/error_functionNAD2
+grader.pyc:	[['energy', 1.0, 0.7285026668]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/TS_state/TS_state_44.out', mode 'r' at 0x7f63533d96f0>	1.05845293903
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_44.out', mode 'r' at 0x7f63533d9150>	-0.502209315361
+outExtractor.pyc:	 Total Energy difference:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_44.out', mode 'r' at 0x7f63533d9150>	1.56066225439
+~/error_functionNAD2/GaussFiles/reactants ~/error_functionNAD2
+~/error_functionNAD2/GaussFiles/TS_state ~/error_functionNAD2
+377.974u 4.555s 0:54.61 700.4%	0+0k 0+1233256io 0pf+0w
+~/error_functionNAD2
+408.674u 4.369s 0:57.85 713.9%	0+0k 0+1095960io 0pf+0w
+~/error_functionNAD2
+grader.pyc:	[['energy', 1.0, 0.7285026668]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/TS_state/TS_state_45.out', mode 'r' at 0x7f63533d9b70>	1.05763966305
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_45.out', mode 'r' at 0x7f63533dd9c0>	-0.502956042299
+outExtractor.pyc:	 Total Energy difference:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_45.out', mode 'r' at 0x7f63533dd9c0>	1.56059570535
+~/error_functionNAD2/GaussFiles/reactants ~/error_functionNAD2
+~/error_functionNAD2/GaussFiles/TS_state ~/error_functionNAD2
+1196.536u 10.467s 2:53.58 695.3%	0+0k 0+2690008io 0pf+0w
+~/error_functionNAD2
+2241.471u 22.875s 5:12.09 725.5%	0+0k 0+5925240io 0pf+0w
+~/error_functionNAD2
+grader.pyc:	[['energy', 1.0, 0.7285026668]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/TS_state/TS_state_46.out', mode 'r' at 0x7f63533d9150>	9.08430573784
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_46.out', mode 'r' at 0x7f63533d96f0>	7.55863379073
+outExtractor.pyc:	 Total Energy difference:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_46.out', mode 'r' at 0x7f63533d96f0>	1.52567194711
+~/error_functionNAD2/GaussFiles/TS_state ~/error_functionNAD2
+~/error_functionNAD2/GaussFiles/reactants ~/error_functionNAD2
+2733.682u 28.428s 6:19.01 728.7%	0+0k 0+7539120io 0pf+0w
+~/error_functionNAD2
+11687.590u 93.558s 28:06.28 698.6%	0+0k 0+14969752io 0pf+0w
+~/error_functionNAD2
+grader.pyc:	[['energy', 1.0, 0.7285026668]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/TS_state/TS_state_47.out', mode 'r' at 0x7f63533d9b70>	32.9676316507
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_47.out', mode 'r' at 0x7f63533dd9c0>	31.4122111435
+outExtractor.pyc:	 Total Energy difference:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_47.out', mode 'r' at 0x7f63533dd9c0>	1.5554205072
+~/error_functionNAD2/GaussFiles/reactants ~/error_functionNAD2
+~/error_functionNAD2/GaussFiles/TS_state ~/error_functionNAD2
+1500.210u 16.014s 3:27.90 729.3%	0+0k 0+4194192io 0pf+0w
+~/error_functionNAD2
+9676.890u 76.570s 23:25.17 694.1%	0+0k 0+14634536io 0pf+0w
+~/error_functionNAD2
+grader.pyc:	[['energy', 1.0, 0.7285026668]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/TS_state/TS_state_48.out', mode 'r' at 0x7f63533d96f0>	8.20898766293
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_48.out', mode 'r' at 0x7f63533d9150>	6.62010018678
+outExtractor.pyc:	 Total Energy difference:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_48.out', mode 'r' at 0x7f63533d9150>	1.58888747614
+~/error_functionNAD2/GaussFiles/reactants ~/error_functionNAD2
+~/error_functionNAD2/GaussFiles/TS_state ~/error_functionNAD2
+382.740u 4.372s 0:54.34 712.3%	0+0k 0+1255728io 0pf+0w
+397.068u 4.285s 0:57.56 697.2%	0+0k 0+1174968io 0pf+0w
+~/error_functionNAD2
+~/error_functionNAD2
+grader.pyc:	[['energy', 1.0, 0.7285026668]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/TS_state/TS_state_49.out', mode 'r' at 0x7f63533d9b70>	1.057639663
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_49.out', mode 'r' at 0x7f63533dd9c0>	-0.502956042299
+outExtractor.pyc:	 Total Energy difference:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_49.out', mode 'r' at 0x7f63533dd9c0>	1.5605957053
+~/error_functionNAD2/GaussFiles/reactants ~/error_functionNAD2
+~/error_functionNAD2/GaussFiles/TS_state ~/error_functionNAD2
+1492.762u 17.276s 3:36.17 698.5%	0+0k 0+4345768io 0pf+0w
+~/error_functionNAD2
+2524.488u 21.371s 6:04.15 699.1%	0+0k 0+4967328io 0pf+0w
+~/error_functionNAD2
+grader.pyc:	[['energy', 1.0, 0.7285026668]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/TS_state/TS_state_50.out', mode 'r' at 0x7f63533d9150>	49.6077096119
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_50.out', mode 'r' at 0x7f63533d96f0>	47.9306212633
+outExtractor.pyc:	 Total Energy difference:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_50.out', mode 'r' at 0x7f63533d96f0>	1.67708834864
+~/error_functionNAD2/GaussFiles/reactants ~/error_functionNAD2
+~/error_functionNAD2/GaussFiles/TS_state ~/error_functionNAD2
+386.745u 4.449s 0:55.64 703.0%	0+0k 0+1256032io 0pf+0w
+405.343u 4.300s 0:58.82 696.4%	0+0k 0+1096032io 0pf+0w
+~/error_functionNAD2
+~/error_functionNAD2
+grader.pyc:	[['energy', 1.0, 0.7285026668]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/TS_state/TS_state_51.out', mode 'r' at 0x7f63533d9b70>	1.05763966309
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_51.out', mode 'r' at 0x7f63533dd9c0>	-0.502956042299
+outExtractor.pyc:	 Total Energy difference:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_51.out', mode 'r' at 0x7f63533dd9c0>	1.56059570539
+~/error_functionNAD2/GaussFiles/TS_state ~/error_functionNAD2
+~/error_functionNAD2/GaussFiles/reactants ~/error_functionNAD2
+1216.590u 10.677s 2:53.39 707.8%	0+0k 0+2312888io 0pf+0w
+~/error_functionNAD2
+2285.974u 23.668s 5:16.21 730.4%	0+0k 0+7108424io 0pf+0w
+~/error_functionNAD2
+grader.pyc:	[['energy', 1.0, 0.7285026668]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/TS_state/TS_state_52.out', mode 'r' at 0x7f63533d96f0>	8.08704411247
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_52.out', mode 'r' at 0x7f63533d9150>	6.49936907717
+outExtractor.pyc:	 Total Energy difference:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_52.out', mode 'r' at 0x7f63533d9150>	1.5876750353
+~/error_functionNAD2/GaussFiles/TS_state ~/error_functionNAD2
+~/error_functionNAD2/GaussFiles/reactants ~/error_functionNAD2
+799.439u 9.879s 2:00.49 671.6%	0+0k 0+2351632io 0pf+0w
+~/error_functionNAD2
+36716.698u 294.557s 1:28:00.17 700.9%	0+0k 0+30671328io 0pf+0w
+~/error_functionNAD2
+grader.pyc:	[['energy', 1.0, 0.7285026668]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/TS_state/TS_state_53.out', mode 'r' at 0x7f63533d9b70>	56.9057278213
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_53.out', mode 'r' at 0x7f63533dd9c0>	55.0180061638
+outExtractor.pyc:	 Total Energy difference:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_53.out', mode 'r' at 0x7f63533dd9c0>	1.88772165754
+~/error_functionNAD2/GaussFiles/reactants ~/error_functionNAD2
+~/error_functionNAD2/GaussFiles/TS_state ~/error_functionNAD2
+376.189u 5.581s 1:03.21 603.9%	0+0k 0+1256776io 0pf+0w
+~/error_functionNAD2
+4821.698u 40.402s 11:35.85 698.7%	0+0k 0+10049296io 0pf+0w
+~/error_functionNAD2
+grader.pyc:	[['energy', 1.0, 0.7285026668]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/TS_state/TS_state_54.out', mode 'r' at 0x7f63533d9150>	-71.6682263562
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_54.out', mode 'r' at 0x7f63533d96f0>	-73.3189987314
+outExtractor.pyc:	 Total Energy difference:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_54.out', mode 'r' at 0x7f63533d96f0>	1.65077237517
+[41mTEST: inCounter:55 GradeList: ['0.676568229439    36', '0.758984901654    35', '0.781213284866    34', '0.797169280311    46', '0.809021914294    32', '0.826917840399    47', '0.828342198008    40', '0.832093038457    43', '0.832093038462    39', '0.832093038487    41', '0.832093038492    33', '0.8320930385    49', '0.832093038549    45', '0.832093038568    42', '0.832093038593    51', '0.832159587589    44', '0.849096152641    37', '0.859172368503    52', '0.860384809343    48', '0.887463285879    38', '0.922269708367    54', '0.948585681839    50', '1.15921899074    53'][0m
+3
+***********Mutator: self.rateCromo=0.360673760222 self.rateGene 0.05 rand 0.681212957422
+***********Mutator: self.rateCromo=0.360673760222 self.rateGene 0.05 rand 0.773004356734
+***********Mutator: self.rateCromo=0.360673760222 self.rateGene 0.05 rand 0.714027196838
+***********Mutator: self.rateCromo=0.360673760222 self.rateGene 0.05 rand 0.710797585688
+3
+***********Mutator: self.rateCromo=0.360673760222 self.rateGene 0.360673760222 rand 0.265208015582
+***********Mutator: self.rateCromo=0.360673760222 self.rateGene 0.360673760222 rand 0.841074883816
+***********Mutator: self.rateCromo=0.360673760222 self.rateGene 0.360673760222 rand 0.667327929888
+***********Mutator: self.rateCromo=0.360673760222 self.rateGene 0.360673760222 rand 0.0601031122538
+3
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.05 rand 0.922162737978
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.05 rand 0.674688358775
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.05 rand 0.599426535569
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.05 rand 0.441379341233
+3
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.360673760222 rand 0.18524927859
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.360673760222 rand 0.66545591636
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.360673760222 rand 0.740810920811
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.360673760222 rand 0.703639146627
+3
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.05 rand 0.701613482292
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.05 rand 0.00323546075902
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.05 rand 0.961545672337
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.05 rand 0.760792884666
+3
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.360673760222 rand 0.480342357847
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.360673760222 rand 0.67538178691
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.360673760222 rand 0.207329756039
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.360673760222 rand 0.55162417911
+3
+***********Mutator: self.rateCromo=0.360673760222 self.rateGene 0.05 rand 0.994098183159
+***********Mutator: self.rateCromo=0.360673760222 self.rateGene 0.05 rand 0.571384470952
+***********Mutator: self.rateCromo=0.360673760222 self.rateGene 0.05 rand 0.754055808273
+***********Mutator: self.rateCromo=0.360673760222 self.rateGene 0.05 rand 0.119745524847
+3
+***********Mutator: self.rateCromo=0.360673760222 self.rateGene 0.05 rand 0.987596309083
+***********Mutator: self.rateCromo=0.360673760222 self.rateGene 0.05 rand 0.667964518812
+***********Mutator: self.rateCromo=0.360673760222 self.rateGene 0.05 rand 0.0543698409577
+***********Mutator: self.rateCromo=0.360673760222 self.rateGene 0.05 rand 0.468549751214
+3
+***********Mutator: self.rateCromo=0.360673760222 self.rateGene 0.05 rand 0.0309463926388
+***********Mutator: self.rateCromo=0.360673760222 self.rateGene 0.05 rand 0.68331991812
+***********Mutator: self.rateCromo=0.360673760222 self.rateGene 0.05 rand 0.675067792779
+***********Mutator: self.rateCromo=0.360673760222 self.rateGene 0.05 rand 0.376747460724
+3
+***********Mutator: self.rateCromo=0.360673760222 self.rateGene 0.360673760222 rand 0.135950472761
+***********Mutator: self.rateCromo=0.360673760222 self.rateGene 0.360673760222 rand 0.599943621262
+***********Mutator: self.rateCromo=0.360673760222 self.rateGene 0.360673760222 rand 0.617366551627
+***********Mutator: self.rateCromo=0.360673760222 self.rateGene 0.360673760222 rand 0.407000968553
+3
+***********Mutator: self.rateCromo=0.360673760222 self.rateGene 0.360673760222 rand 0.224911217029
+***********Mutator: self.rateCromo=0.360673760222 self.rateGene 0.360673760222 rand 0.654450217093
+***********Mutator: self.rateCromo=0.360673760222 self.rateGene 0.360673760222 rand 0.563579407796
+***********Mutator: self.rateCromo=0.360673760222 self.rateGene 0.360673760222 rand 0.938826960964
+3
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.360673760222 rand 0.808457852944
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.360673760222 rand 0.292036706611
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.360673760222 rand 0.648059689208
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.360673760222 rand 0.660841070201
+3
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.360673760222 rand 0.237731755993
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.360673760222 rand 0.0886048306062
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.360673760222 rand 0.561135874457
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.360673760222 rand 0.838681302006
+3
+***********Mutator: self.rateCromo=0.360673760222 self.rateGene 0.360673760222 rand 0.92137684764
+***********Mutator: self.rateCromo=0.360673760222 self.rateGene 0.360673760222 rand 0.533830295759
+***********Mutator: self.rateCromo=0.360673760222 self.rateGene 0.360673760222 rand 0.067526124699
+***********Mutator: self.rateCromo=0.360673760222 self.rateGene 0.360673760222 rand 0.464903616528
+3
+***********Mutator: self.rateCromo=0.360673760222 self.rateGene 0.360673760222 rand 0.347172393731
+***********Mutator: self.rateCromo=0.360673760222 self.rateGene 0.360673760222 rand 0.973276695255
+***********Mutator: self.rateCromo=0.360673760222 self.rateGene 0.360673760222 rand 0.332901155395
+***********Mutator: self.rateCromo=0.360673760222 self.rateGene 0.360673760222 rand 0.437978401161
+3
+***********Mutator: self.rateCromo=0.360673760222 self.rateGene 0.360673760222 rand 0.29184637677
+***********Mutator: self.rateCromo=0.360673760222 self.rateGene 0.360673760222 rand 0.52147306415
+***********Mutator: self.rateCromo=0.360673760222 self.rateGene 0.360673760222 rand 0.348321618879
+***********Mutator: self.rateCromo=0.360673760222 self.rateGene 0.360673760222 rand 0.0697110058369
+3
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.360673760222 rand 0.437697345446
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.360673760222 rand 0.492304029829
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.360673760222 rand 0.0352717441655
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.360673760222 rand 0.830426176382
+3
+***********Mutator: self.rateCromo=0.360673760222 self.rateGene 0.05 rand 0.575692121441
+***********Mutator: self.rateCromo=0.360673760222 self.rateGene 0.05 rand 0.876403414445
+***********Mutator: self.rateCromo=0.360673760222 self.rateGene 0.05 rand 0.809094116951
+***********Mutator: self.rateCromo=0.360673760222 self.rateGene 0.05 rand 0.349222815926
+3
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.360673760222 rand 0.754074617681
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.360673760222 rand 0.249880591792
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.360673760222 rand 0.407423589167
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.360673760222 rand 0.423850583134
+3
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.05 rand 0.968494084472
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.05 rand 0.362330118485
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.05 rand 0.63844933223
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.05 rand 0.177821995427
+3
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.360673760222 rand 0.971986886423
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.360673760222 rand 0.679807090564
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.360673760222 rand 0.204265665387
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.360673760222 rand 0.56310753361
+3
+***********Mutator: self.rateCromo=0.360673760222 self.rateGene 0.360673760222 rand 0.881368721634
+***********Mutator: self.rateCromo=0.360673760222 self.rateGene 0.360673760222 rand 0.266789586321
+***********Mutator: self.rateCromo=0.360673760222 self.rateGene 0.360673760222 rand 0.996582945378
+***********Mutator: self.rateCromo=0.360673760222 self.rateGene 0.360673760222 rand 0.372736317641
+3
+***********Mutator: self.rateCromo=0.360673760222 self.rateGene 0.360673760222 rand 0.481932070407
+***********Mutator: self.rateCromo=0.360673760222 self.rateGene 0.360673760222 rand 0.943508032228
+***********Mutator: self.rateCromo=0.360673760222 self.rateGene 0.360673760222 rand 0.955699717836
+***********Mutator: self.rateCromo=0.360673760222 self.rateGene 0.360673760222 rand 0.27348221665
+3
+***********Mutator: self.rateCromo=0.360673760222 self.rateGene 0.360673760222 rand 0.34474183885
+***********Mutator: self.rateCromo=0.360673760222 self.rateGene 0.360673760222 rand 0.989552520319
+***********Mutator: self.rateCromo=0.360673760222 self.rateGene 0.360673760222 rand 0.00999004261042
+***********Mutator: self.rateCromo=0.360673760222 self.rateGene 0.360673760222 rand 0.338502245607
+3
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.05 rand 0.21799629652
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.05 rand 0.374435637206
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.05 rand 0.885500691732
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.05 rand 0.996373190111
+3
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.360673760222 rand 0.985501361304
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.360673760222 rand 0.41965215832
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.360673760222 rand 0.149211669857
+***********Mutator: self.rateCromo=0.05 self.rateGene 0.360673760222 rand 0.424553596501
+3
+***********Mutator: self.rateCromo=0.360673760222 self.rateGene 0.360673760222 rand 0.533336782838
+***********Mutator: self.rateCromo=0.360673760222 self.rateGene 0.360673760222 rand 0.629901060724
+***********Mutator: self.rateCromo=0.360673760222 self.rateGene 0.360673760222 rand 0.0794636522415
+***********Mutator: self.rateCromo=0.360673760222 self.rateGene 0.360673760222 rand 0.0320947948821
+**************
+This is generation number:  4
+**************
+~/error_functionNAD2/GaussFiles/reactants ~/error_functionNAD2
+~/error_functionNAD2/GaussFiles/TS_state ~/error_functionNAD2
+829.000u 9.598s 2:03.02 681.6%	0+0k 0+2297416io 0pf+0w
+~/error_functionNAD2
+37461.225u 311.130s 1:30:06.18 698.6%	0+0k 0+33069744io 0pf+0w
+~/error_functionNAD2
+grader.pyc:	[['energy', 1.0, 0.7285026668]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/TS_state/TS_state_55.out', mode 'r' at 0x7f63533d9b70>	-12.2185310629
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_55.out', mode 'r' at 0x7f63533dd9c0>	-13.6296779076
+outExtractor.pyc:	 Total Energy difference:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_55.out', mode 'r' at 0x7f63533dd9c0>	1.41114684475
+~/error_functionNAD2/GaussFiles/TS_state ~/error_functionNAD2
+~/error_functionNAD2/GaussFiles/reactants ~/error_functionNAD2
+803.522u 10.063s 1:59.77 679.2%	0+0k 0+2167136io 0pf+0w
+~/error_functionNAD2
+14461.132u 121.714s 34:51.90 697.1%	0+0k 0+18180016io 0pf+0w
+~/error_functionNAD2
+grader.pyc:	[['energy', 1.0, 0.7285026668]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/TS_state/TS_state_56.out', mode 'r' at 0x7f63533d96f0>	-78.0795891837
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_56.out', mode 'r' at 0x7f63533d9150>	-79.852383811
+outExtractor.pyc:	 Total Energy difference:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_56.out', mode 'r' at 0x7f63533d9150>	1.77279462721
+~/error_functionNAD2/GaussFiles/reactants ~/error_functionNAD2
+~/error_functionNAD2/GaussFiles/TS_state ~/error_functionNAD2
+1535.470u 17.704s 3:41.24 702.0%	0+0k 0+4398696io 0pf+0w
+~/error_functionNAD2
+9056.509u 75.264s 21:59.35 692.1%	0+0k 0+10003392io 0pf+0w
+~/error_functionNAD2
+grader.pyc:	[['energy', 1.0, 0.7285026668]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/TS_state/TS_state_57.out', mode 'r' at 0x7f63533d9b70>	6.5406261731
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_57.out', mode 'r' at 0x7f63533dd9c0>	5.05312916077
+outExtractor.pyc:	 Total Energy difference:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_57.out', mode 'r' at 0x7f63533dd9c0>	1.48749701233
+~/error_functionNAD2/GaussFiles/TS_state ~/error_functionNAD2
+~/error_functionNAD2/GaussFiles/reactants ~/error_functionNAD2
+1216.130u 10.769s 2:55.06 700.8%	0+0k 0+2814248io 0pf+0w
+~/error_functionNAD2
+2248.255u 22.949s 5:11.12 730.0%	0+0k 0+6955864io 0pf+0w
+~/error_functionNAD2
+grader.pyc:	[['energy', 1.0, 0.7285026668]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/TS_state/TS_state_58.out', mode 'r' at 0x7f63533d9150>	9.08430573762
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_58.out', mode 'r' at 0x7f63533d96f0>	7.55863379078
+outExtractor.pyc:	 Total Energy difference:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_58.out', mode 'r' at 0x7f63533d96f0>	1.52567194684
+~/error_functionNAD2/GaussFiles/TS_state ~/error_functionNAD2
+~/error_functionNAD2/GaussFiles/reactants ~/error_functionNAD2
+3020.954u 31.416s 6:58.26 729.7%	0+0k 0+7972392io 0pf+0w
+~/error_functionNAD2
+29940.703u 247.248s 1:12:09.43 697.2%	0+0k 0+28976632io 0pf+0w
+~/error_functionNAD2
+grader.pyc:	[['energy', 1.0, 0.7285026668]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/TS_state/TS_state_59.out', mode 'r' at 0x7f63533d9b70>	95.1069689029
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_59.out', mode 'r' at 0x7f63533dd9c0>	93.7770797178
+outExtractor.pyc:	 Total Energy difference:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_59.out', mode 'r' at 0x7f63533dd9c0>	1.32988918512
+~/error_functionNAD2/GaussFiles/reactants ~/error_functionNAD2
+~/error_functionNAD2/GaussFiles/TS_state ~/error_functionNAD2
+392.469u 5.545s 1:04.54 616.6%	0+0k 0+1255800io 0pf+0w
+~/error_functionNAD2
+3437.760u 28.384s 8:10.23 707.0%	0+0k 0+6325352io 0pf+0w
+~/error_functionNAD2
+grader.pyc:	[['energy', 1.0, 0.7285026668]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/TS_state/TS_state_60.out', mode 'r' at 0x7f63533d96f0>	17.8713767815
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_60.out', mode 'r' at 0x7f63533d9150>	16.2040682715
+outExtractor.pyc:	 Total Energy difference:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_60.out', mode 'r' at 0x7f63533d9150>	1.66730850999
+~/error_functionNAD2/GaussFiles/reactants ~/error_functionNAD2
+~/error_functionNAD2/GaussFiles/TS_state ~/error_functionNAD2
+575.334u 6.037s 1:22.94 700.9%	0+0k 0+1602304io 0pf+0w
+~/error_functionNAD2
+743.015u 8.162s 1:44.66 717.7%	0+0k 0+2215400io 0pf+0w
+~/error_functionNAD2
+grader.pyc:	[['energy', 1.0, 0.7285026668]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/TS_state/TS_state_61.out', mode 'r' at 0x7f63533d9b70>	1.44999305948
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_61.out', mode 'r' at 0x7f63533dd9c0>	-0.107039126357
+outExtractor.pyc:	 Total Energy difference:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_61.out', mode 'r' at 0x7f63533dd9c0>	1.55703218583
+~/error_functionNAD2/GaussFiles/reactants ~/error_functionNAD2
+~/error_functionNAD2/GaussFiles/TS_state ~/error_functionNAD2
+375.235u 4.742s 0:53.81 706.1%	0+0k 0+1256672io 0pf+0w
+~/error_functionNAD2
+401.014u 4.520s 0:57.15 709.5%	0+0k 0+1095992io 0pf+0w
+~/error_functionNAD2
+grader.pyc:	[['energy', 1.0, 0.7285026668]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/TS_state/TS_state_62.out', mode 'r' at 0x7f63533d9150>	1.05763966297
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_62.out', mode 'r' at 0x7f63533d96f0>	-0.502956042299
+outExtractor.pyc:	 Total Energy difference:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_62.out', mode 'r' at 0x7f63533d96f0>	1.56059570527
+~/error_functionNAD2/GaussFiles/reactants ~/error_functionNAD2
+~/error_functionNAD2/GaussFiles/TS_state ~/error_functionNAD2
+376.094u 4.705s 0:53.22 715.5%	0+0k 0+1232704io 0pf+0w
+~/error_functionNAD2
+401.630u 4.361s 0:57.03 711.8%	0+0k 0+1150592io 0pf+0w
+~/error_functionNAD2
+grader.pyc:	[['energy', 1.0, 0.7285026668]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/TS_state/TS_state_63.out', mode 'r' at 0x7f63533d9b70>	1.05520914639
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_63.out', mode 'r' at 0x7f63533dd9c0>	-0.505093203903
+outExtractor.pyc:	 Total Energy difference:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_63.out', mode 'r' at 0x7f63533dd9c0>	1.56030235029
+~/error_functionNAD2/GaussFiles/TS_state ~/error_functionNAD2
+~/error_functionNAD2/GaussFiles/reactants ~/error_functionNAD2
+1212.216u 10.766s 2:53.35 705.4%	0+0k 0+2426088io 0pf+0w
+~/error_functionNAD2
+2343.128u 23.871s 5:21.16 737.0%	0+0k 0+5423920io 0pf+0w
+~/error_functionNAD2
+grader.pyc:	[['energy', 1.0, 0.7285026668]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/TS_state/TS_state_64.out', mode 'r' at 0x7f63533d96f0>	11.9980368375
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_64.out', mode 'r' at 0x7f63533d9150>	10.5024961542
+outExtractor.pyc:	 Total Energy difference:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_64.out', mode 'r' at 0x7f63533d9150>	1.4955406833
+~/error_functionNAD2/GaussFiles/TS_state ~/error_functionNAD2
+~/error_functionNAD2/GaussFiles/reactants ~/error_functionNAD2
+1573.392u 13.672s 3:46.21 701.5%	0+0k 0+1759776io 0pf+0w
+~/error_functionNAD2
+2273.739u 25.639s 5:20.99 716.3%	0+0k 0+6931664io 0pf+0w
+~/error_functionNAD2
+grader.pyc:	[['energy', 1.0, 0.7285026668]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/TS_state/TS_state_65.out', mode 'r' at 0x7f63533d9b70>	-6.26707570201
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_65.out', mode 'r' at 0x7f63533dd9c0>	-7.84176289357
+outExtractor.pyc:	 Total Energy difference:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_65.out', mode 'r' at 0x7f63533dd9c0>	1.57468719156
+~/error_functionNAD2/GaussFiles/TS_state ~/error_functionNAD2
+~/error_functionNAD2/GaussFiles/reactants ~/error_functionNAD2
+411.309u 5.176s 0:58.74 709.0%	0+0k 0+1178120io 0pf+0w
+411.341u 4.904s 0:59.08 704.5%	0+0k 0+1096920io 0pf+0w
+~/error_functionNAD2
+~/error_functionNAD2
+grader.pyc:	[['energy', 1.0, 0.7285026668]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/TS_state/TS_state_66.out', mode 'r' at 0x7f63533d9150>	1.05763966303
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_66.out', mode 'r' at 0x7f63533d96f0>	-0.502956042299
+outExtractor.pyc:	 Total Energy difference:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_66.out', mode 'r' at 0x7f63533d96f0>	1.56059570532
+~/error_functionNAD2/GaussFiles/TS_state ~/error_functionNAD2
+~/error_functionNAD2/GaussFiles/reactants ~/error_functionNAD2
+381.523u 4.575s 0:55.42 696.6%	0+0k 0+1255704io 0pf+0w
+401.035u 4.652s 0:57.25 708.6%	0+0k 0+1173624io 0pf+0w
+~/error_functionNAD2
+~/error_functionNAD2
+grader.pyc:	[['energy', 1.0, 0.7285026668]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/TS_state/TS_state_67.out', mode 'r' at 0x7f63533d9b70>	1.05763966303
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_67.out', mode 'r' at 0x7f63533dd9c0>	-0.502956042299
+outExtractor.pyc:	 Total Energy difference:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_67.out', mode 'r' at 0x7f63533dd9c0>	1.56059570532
+~/error_functionNAD2/GaussFiles/reactants ~/error_functionNAD2
+~/error_functionNAD2/GaussFiles/TS_state ~/error_functionNAD2
+576.851u 5.896s 1:23.54 697.5%	0+0k 0+1679488io 0pf+0w
+~/error_functionNAD2
+1077.534u 11.515s 2:29.82 726.8%	0+0k 0+3457872io 0pf+0w
+~/error_functionNAD2
+grader.pyc:	[['energy', 1.0, 0.7285026668]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/TS_state/TS_state_68.out', mode 'r' at 0x7f63533d96f0>	0.76587145634
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_68.out', mode 'r' at 0x7f63533d9150>	-0.793868696982
+outExtractor.pyc:	 Total Energy difference:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_68.out', mode 'r' at 0x7f63533d9150>	1.55974015332
+~/error_functionNAD2/GaussFiles/TS_state ~/error_functionNAD2
+~/error_functionNAD2/GaussFiles/reactants ~/error_functionNAD2
+1015.069u 9.377s 2:26.20 700.7%	0+0k 0+2132936io 0pf+0w
+~/error_functionNAD2
+2656.124u 27.367s 6:04.88 735.4%	0+0k 0+6792280io 0pf+0w
+~/error_functionNAD2
+grader.pyc:	[['energy', 1.0, 0.7285026668]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/TS_state/TS_state_69.out', mode 'r' at 0x7f63533d9b70>	-26.3222329212
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_69.out', mode 'r' at 0x7f63533dd9c0>	-27.8910463407
+outExtractor.pyc:	 Total Energy difference:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_69.out', mode 'r' at 0x7f63533dd9c0>	1.56881341948
+~/error_functionNAD2/GaussFiles/TS_state ~/error_functionNAD2
+~/error_functionNAD2/GaussFiles/reactants ~/error_functionNAD2
+379.047u 5.663s 1:02.63 614.2%	0+0k 0+1255800io 0pf+0w
+~/error_functionNAD2
+8020.458u 68.722s 19:29.29 691.8%	0+0k 0+11283904io 0pf+0w
+~/error_functionNAD2
+grader.pyc:	[['energy', 1.0, 0.7285026668]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/TS_state/TS_state_70.out', mode 'r' at 0x7f63533d9150>	-0.62035484965
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_70.out', mode 'r' at 0x7f63533d96f0>	-2.88145318678
+outExtractor.pyc:	 Total Energy difference:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_70.out', mode 'r' at 0x7f63533d96f0>	2.26109833713
+~/error_functionNAD2/GaussFiles/reactants ~/error_functionNAD2
+~/error_functionNAD2/GaussFiles/TS_state ~/error_functionNAD2
+568.008u 5.959s 1:21.32 705.7%	0+0k 0+1677800io 0pf+0w
+~/error_functionNAD2
+1066.144u 11.467s 2:29.56 720.5%	0+0k 0+3464264io 0pf+0w
+~/error_functionNAD2
+grader.pyc:	[['energy', 1.0, 0.7285026668]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/TS_state/TS_state_71.out', mode 'r' at 0x7f63533d9b70>	0.981066994715
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_71.out', mode 'r' at 0x7f63533dd9c0>	-0.579613928706
+outExtractor.pyc:	 Total Energy difference:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_71.out', mode 'r' at 0x7f63533dd9c0>	1.56068092342
+~/error_functionNAD2/GaussFiles/TS_state ~/error_functionNAD2
+~/error_functionNAD2/GaussFiles/reactants ~/error_functionNAD2
+1156.202u 14.082s 2:51.97 680.5%	0+0k 0+2895496io 0pf+0w
+~/error_functionNAD2
+28075.028u 224.445s 1:07:28.41 699.0%	0+0k 0+32280024io 0pf+0w
+~/error_functionNAD2
+grader.pyc:	[['energy', 1.0, 0.7285026668]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/TS_state/TS_state_72.out', mode 'r' at 0x7f63533d96f0>	-64.485553514
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_72.out', mode 'r' at 0x7f63533d9150>	-65.9892869314
+outExtractor.pyc:	 Total Energy difference:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_72.out', mode 'r' at 0x7f63533d9150>	1.50373341737
+~/error_functionNAD2/GaussFiles/TS_state ~/error_functionNAD2
+~/error_functionNAD2/GaussFiles/reactants ~/error_functionNAD2
+1512.687u 18.521s 3:40.09 695.7%	0+0k 0+4191200io 0pf+0w
+~/error_functionNAD2
+2546.194u 20.785s 6:07.11 699.2%	0+0k 0+4615064io 0pf+0w
+~/error_functionNAD2
+grader.pyc:	[['energy', 1.0, 0.7285026668]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/TS_state/TS_state_73.out', mode 'r' at 0x7f63533d9b70>	49.6077096119
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_73.out', mode 'r' at 0x7f63533dd9c0>	47.9306212633
+outExtractor.pyc:	 Total Energy difference:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_73.out', mode 'r' at 0x7f63533dd9c0>	1.67708834864
+~/error_functionNAD2/GaussFiles/reactants ~/error_functionNAD2
+~/error_functionNAD2/GaussFiles/TS_state ~/error_functionNAD2
+383.198u 4.936s 0:55.54 698.8%	0+0k 0+1255696io 0pf+0w
+401.294u 4.474s 0:59.12 686.3%	0+0k 0+1173664io 0pf+0w
+~/error_functionNAD2
+~/error_functionNAD2
+grader.pyc:	[['energy', 1.0, 0.7285026668]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/TS_state/TS_state_74.out', mode 'r' at 0x7f63533d9150>	1.0584529391
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_74.out', mode 'r' at 0x7f63533d96f0>	-0.502209315361
+outExtractor.pyc:	 Total Energy difference:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_74.out', mode 'r' at 0x7f63533d96f0>	1.56066225446
+~/error_functionNAD2/GaussFiles/reactants ~/error_functionNAD2
+~/error_functionNAD2/GaussFiles/TS_state ~/error_functionNAD2
+1621.065u 19.020s 3:52.64 704.9%	0+0k 0+4669248io 0pf+0w
+~/error_functionNAD2
+3242.967u 27.330s 7:49.07 697.1%	0+0k 0+3965248io 0pf+0w
+~/error_functionNAD2
+grader.pyc:	[['energy', 1.0, 0.7285026668]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/TS_state/TS_state_75.out', mode 'r' at 0x7f63533d9b70>	-0.579075844672
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_75.out', mode 'r' at 0x7f63533dd9c0>	-2.11796068882
+outExtractor.pyc:	 Total Energy difference:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_75.out', mode 'r' at 0x7f63533dd9c0>	1.53888484415
+~/error_functionNAD2/GaussFiles/TS_state ~/error_functionNAD2
+~/error_functionNAD2/GaussFiles/reactants ~/error_functionNAD2
+826.868u 10.507s 2:03.16 679.8%	0+0k 0+2341984io 0pf+0w
+~/error_functionNAD2
+33049.368u 268.942s 1:20:00.05 694.1%	0+0k 0+27078048io 0pf+0w
+~/error_functionNAD2
+grader.pyc:	[['energy', 1.0, 0.7285026668]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/TS_state/TS_state_76.out', mode 'r' at 0x7f63533d96f0>	65.5495403183
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_76.out', mode 'r' at 0x7f63533d9150>	63.660479228
+outExtractor.pyc:	 Total Energy difference:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_76.out', mode 'r' at 0x7f63533d9150>	1.88906109035
+~/error_functionNAD2/GaussFiles/reactants ~/error_functionNAD2
+~/error_functionNAD2/GaussFiles/TS_state ~/error_functionNAD2
+368.570u 5.981s 1:01.29 611.1%	0+0k 0+1210696io 0pf+0w
+~/error_functionNAD2
+4817.500u 40.119s 11:38.84 695.0%	0+0k 0+3994224io 0pf+0w
+~/error_functionNAD2
+grader.pyc:	[['energy', 1.0, 0.7285026668]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/TS_state/TS_state_77.out', mode 'r' at 0x7f63533d9b70>	-47.8414360064
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_77.out', mode 'r' at 0x7f63533dd9c0>	-50.8029762783
+outExtractor.pyc:	 Total Energy difference:: <open file '/home/qnt/pshety/error_functionNAD2/GaussFiles/reactants/reactants_77.out', mode 'r' at 0x7f63533dd9c0>	2.96154027185
+~/error_functionNAD2/GaussFiles/TS_state ~/error_functionNAD2
+~/error_functionNAD2/GaussFiles/reactants ~/error_functionNAD2
+764.363u 9.919s 1:56.04 667.2%	0+0k 0+2303184io 0pf+0w
+~/error_functionNAD2

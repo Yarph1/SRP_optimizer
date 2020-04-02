@@ -1,0 +1,16 @@
+Notes:
+For STRUCTURE trait to be accurate, the initial structure before optimization SHOULD be the "correct" structure
+
+Reactants:
+
+~/error_functionGA/input/BO2_AM1_SRP_FDH.02.inp 1
+
+Products:
+~/error_functionGA/input/DO2_AM1_SRP_FDH.02.inp 2
+
+ 
+Traits:
+
+energy=1 -3.9 eV
+structure=1 0.0 RMSD
+atomcharges=1 0.0 partial charges

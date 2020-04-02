@@ -1,0 +1,1672 @@
+('These are the traits to optimize by:\n', [['energy', 1.0, 16.8]])
+(['~/error_functionNAD/input/TS_state.gjf'], '\n', ['~/error_functionNAD/input/reactants.gjf'])
+/home/qnt/pshety/error_functionNAD/input/TS_state.gjf
+
+/home/qnt/pshety/error_functionNAD/input/reactants.gjf
+
+~/error_functionNAD/GaussFiles/reactants ~/error_functionNAD
+~/error_functionNAD/GaussFiles/TS_state ~/error_functionNAD
+424.971u 5.461s 0:59.73 720.6%	0+0k 0+1257320io 0pf+0w
+~/error_functionNAD
+471.037u 5.231s 1:05.54 726.6%	0+0k 0+1116128io 0pf+0w
+~/error_functionNAD
+
+This part is about to calculate the best set of parameters
+**************
+This is generation number:  1
+**************
+~/error_functionNAD/GaussFiles/reactants ~/error_functionNAD
+~/error_functionNAD/GaussFiles/TS_state ~/error_functionNAD
+401.455u 5.097s 0:56.93 714.1%	0+0k 0+1255656io 0pf+0w
+~/error_functionNAD
+426.337u 5.093s 1:00.10 717.8%	0+0k 0+1172368io 0pf+0w
+~/error_functionNAD
+grader.pyc:	[['energy', 1.0, 16.8]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD/GaussFiles/TS_state/TS_state_1.out', mode 'r' at 0x7fbc79a9ac00>	1.05763966299
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD/GaussFiles/reactants/reactants_1.out', mode 'r' at 0x7fbc79a9ea50>	1.56059570529
+[41mTEST: inCounter:2 GradeList: [15.239404294707695][0m
+1
+***********Mutator: self.rateCromo=0.5 self.rateGene 0.5 rand 0.320025385748
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+***********Mutator: self.rateCromo=0.5 self.rateGene 0.5 rand 0.155997858938
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+***********Mutator: self.rateCromo=0.5 self.rateGene 0.5 rand 0.351289558305
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+***********Mutator: self.rateCromo=0.5 self.rateGene 0.5 rand 0.579076419021
+1
+***********Mutator: self.rateCromo=0.5 self.rateGene 0.5 rand 0.654078371407
+***********Mutator: self.rateCromo=0.5 self.rateGene 0.5 rand 0.806055000554
+***********Mutator: self.rateCromo=0.5 self.rateGene 0.5 rand 0.265591741407
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+***********Mutator: self.rateCromo=0.5 self.rateGene 0.5 rand 0.193638448005
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+1
+***********Mutator: self.rateCromo=0.5 self.rateGene 0.5 rand 0.0488200111512
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+***********Mutator: self.rateCromo=0.5 self.rateGene 0.5 rand 0.422851642848
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+***********Mutator: self.rateCromo=0.5 self.rateGene 0.5 rand 0.535836219943
+***********Mutator: self.rateCromo=0.5 self.rateGene 0.5 rand 0.165729403124
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+1
+***********Mutator: self.rateCromo=0.5 self.rateGene 0.5 rand 0.269754202532
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+***********Mutator: self.rateCromo=0.5 self.rateGene 0.5 rand 0.0294904785484
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+***********Mutator: self.rateCromo=0.5 self.rateGene 0.5 rand 0.354859339556
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+***********Mutator: self.rateCromo=0.5 self.rateGene 0.5 rand 0.107651474692
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+1
+***********Mutator: self.rateCromo=0.5 self.rateGene 0.5 rand 0.00470843209473
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+***********Mutator: self.rateCromo=0.5 self.rateGene 0.5 rand 0.47680848653
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+***********Mutator: self.rateCromo=0.5 self.rateGene 0.5 rand 0.229348217987
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+***********Mutator: self.rateCromo=0.5 self.rateGene 0.5 rand 0.846223074651
+1
+***********Mutator: self.rateCromo=0.5 self.rateGene 0.5 rand 0.518863636822
+***********Mutator: self.rateCromo=0.5 self.rateGene 0.5 rand 0.34317416132
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+***********Mutator: self.rateCromo=0.5 self.rateGene 0.5 rand 0.884627100297
+***********Mutator: self.rateCromo=0.5 self.rateGene 0.5 rand 0.586576117745
+1
+***********Mutator: self.rateCromo=0.5 self.rateGene 0.5 rand 0.236551383328
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+***********Mutator: self.rateCromo=0.5 self.rateGene 0.5 rand 0.0887863865234
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+***********Mutator: self.rateCromo=0.5 self.rateGene 0.5 rand 0.985205332975
+***********Mutator: self.rateCromo=0.5 self.rateGene 0.5 rand 0.533378767822
+1
+***********Mutator: self.rateCromo=0.5 self.rateGene 0.5 rand 0.998080848908
+***********Mutator: self.rateCromo=0.5 self.rateGene 0.5 rand 0.855992966138
+***********Mutator: self.rateCromo=0.5 self.rateGene 0.5 rand 0.858563693896
+***********Mutator: self.rateCromo=0.5 self.rateGene 0.5 rand 0.706981351355
+1
+***********Mutator: self.rateCromo=0.5 self.rateGene 0.5 rand 0.248762467146
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+***********Mutator: self.rateCromo=0.5 self.rateGene 0.5 rand 0.625544703858
+***********Mutator: self.rateCromo=0.5 self.rateGene 0.5 rand 0.277293143667
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+***********Mutator: self.rateCromo=0.5 self.rateGene 0.5 rand 0.749705809681
+1
+***********Mutator: self.rateCromo=0.5 self.rateGene 0.5 rand 0.18162051878
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+***********Mutator: self.rateCromo=0.5 self.rateGene 0.5 rand 0.703726585151
+***********Mutator: self.rateCromo=0.5 self.rateGene 0.5 rand 0.0513732090613
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+***********Mutator: self.rateCromo=0.5 self.rateGene 0.5 rand 0.303565326158
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+1
+***********Mutator: self.rateCromo=0.5 self.rateGene 0.5 rand 0.00207761913578
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+***********Mutator: self.rateCromo=0.5 self.rateGene 0.5 rand 0.920848124387
+***********Mutator: self.rateCromo=0.5 self.rateGene 0.5 rand 0.471532750894
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+***********Mutator: self.rateCromo=0.5 self.rateGene 0.5 rand 0.119739944553
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+1
+***********Mutator: self.rateCromo=0.5 self.rateGene 0.5 rand 0.773501926642
+***********Mutator: self.rateCromo=0.5 self.rateGene 0.5 rand 0.233537177422
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+***********Mutator: self.rateCromo=0.5 self.rateGene 0.5 rand 0.384079697226
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+***********Mutator: self.rateCromo=0.5 self.rateGene 0.5 rand 0.34843144101
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+1
+***********Mutator: self.rateCromo=0.5 self.rateGene 0.5 rand 0.793313585493
+***********Mutator: self.rateCromo=0.5 self.rateGene 0.5 rand 0.0105449492145
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+***********Mutator: self.rateCromo=0.5 self.rateGene 0.5 rand 0.693873113397
+***********Mutator: self.rateCromo=0.5 self.rateGene 0.5 rand 0.187023998797
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+1
+***********Mutator: self.rateCromo=0.5 self.rateGene 0.5 rand 0.0892974129328
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+***********Mutator: self.rateCromo=0.5 self.rateGene 0.5 rand 0.163857035438
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+***********Mutator: self.rateCromo=0.5 self.rateGene 0.5 rand 0.129478429796
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+***********Mutator: self.rateCromo=0.5 self.rateGene 0.5 rand 0.203920685719
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+1
+***********Mutator: self.rateCromo=0.5 self.rateGene 0.5 rand 0.485459056542
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+***********Mutator: self.rateCromo=0.5 self.rateGene 0.5 rand 0.386949897342
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+***********Mutator: self.rateCromo=0.5 self.rateGene 0.5 rand 0.50571403138
+***********Mutator: self.rateCromo=0.5 self.rateGene 0.5 rand 0.429319348306
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+****Mutation!!****: 0.5
+**************
+This is generation number:  2
+**************
+~/error_functionNAD/GaussFiles/reactants ~/error_functionNAD
+~/error_functionNAD/GaussFiles/TS_state ~/error_functionNAD
+830.306u 8.810s 1:58.37 708.8%	0+0k 0+1639544io 0pf+0w
+~/error_functionNAD
+2624.083u 30.739s 6:01.86 733.6%	0+0k 0+6486440io 0pf+0w
+~/error_functionNAD
+grader.pyc:	[['energy', 1.0, 16.8]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD/GaussFiles/TS_state/TS_state_2.out', mode 'r' at 0x7fbc79a9a1e0>	9.36676360191
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD/GaussFiles/reactants/reactants_2.out', mode 'r' at 0x7fbc79a9a780>	1.56524462097
+~/error_functionNAD/GaussFiles/TS_state ~/error_functionNAD
+~/error_functionNAD/GaussFiles/reactants ~/error_functionNAD
+676.673u 7.087s 1:35.72 714.3%	0+0k 0+1603848io 0pf+0w
+~/error_functionNAD
+1151.658u 13.624s 2:39.64 729.9%	0+0k 0+3494896io 0pf+0w
+~/error_functionNAD
+grader.pyc:	[['energy', 1.0, 16.8]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD/GaussFiles/TS_state/TS_state_3.out', mode 'r' at 0x7fbc79a9ea50>	1.69377753275
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD/GaussFiles/reactants/reactants_3.out', mode 'r' at 0x7fbc79a9ac00>	1.55601450226
+~/error_functionNAD/GaussFiles/TS_state ~/error_functionNAD
+~/error_functionNAD/GaussFiles/reactants ~/error_functionNAD
+1184.998u 15.758s 2:51.91 698.4%	0+0k 0+3005520io 0pf+0w
+~/error_functionNAD
+1819.444u 17.171s 4:22.54 699.5%	0+0k 0+2279168io 0pf+0w
+~/error_functionNAD
+grader.pyc:	[['energy', 1.0, 16.8]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD/GaussFiles/TS_state/TS_state_4.out', mode 'r' at 0x7fbc79a9a780>	-1.8254151478
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD/GaussFiles/reactants/reactants_4.out', mode 'r' at 0x7fbc79a9a1e0>	1.57448169828
+~/error_functionNAD/GaussFiles/reactants ~/error_functionNAD
+~/error_functionNAD/GaussFiles/TS_state ~/error_functionNAD
+1099.081u 10.610s 2:36.71 708.1%	0+0k 0+1759240io 0pf+0w
+~/error_functionNAD
+1611.987u 17.375s 3:43.04 730.5%	0+0k 0+4602480io 0pf+0w
+~/error_functionNAD
+grader.pyc:	[['energy', 1.0, 16.8]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD/GaussFiles/TS_state/TS_state_5.out', mode 'r' at 0x7fbc79a9ac00>	4.34934655197
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD/GaussFiles/reactants/reactants_5.out', mode 'r' at 0x7fbc79a9ea50>	1.57831911227
+~/error_functionNAD/GaussFiles/TS_state ~/error_functionNAD
+~/error_functionNAD/GaussFiles/reactants ~/error_functionNAD
+1022.235u 10.404s 2:24.95 712.4%	0+0k 0+2151360io 0pf+0w
+~/error_functionNAD
+1511.750u 17.490s 3:29.23 730.8%	0+0k 0+4364152io 0pf+0w
+~/error_functionNAD
+grader.pyc:	[['energy', 1.0, 16.8]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD/GaussFiles/TS_state/TS_state_6.out', mode 'r' at 0x7fbc79a9a1e0>	-0.191512832731
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD/GaussFiles/reactants/reactants_6.out', mode 'r' at 0x7fbc79a9a780>	1.57284224998
+~/error_functionNAD/GaussFiles/TS_state ~/error_functionNAD
+~/error_functionNAD/GaussFiles/reactants ~/error_functionNAD
+1113.975u 10.995s 2:36.66 718.0%	0+0k 0+2232704io 0pf+0w
+~/error_functionNAD
+1263.022u 14.929s 2:54.84 730.9%	0+0k 0+3375496io 0pf+0w
+~/error_functionNAD
+grader.pyc:	[['energy', 1.0, 16.8]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD/GaussFiles/TS_state/TS_state_7.out', mode 'r' at 0x7fbc79a9ea50>	-9.91995072736
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD/GaussFiles/reactants/reactants_7.out', mode 'r' at 0x7fbc79a9ac00>	1.54722334053
+~/error_functionNAD/GaussFiles/TS_state ~/error_functionNAD
+~/error_functionNAD/GaussFiles/reactants ~/error_functionNAD
+1061.287u 10.485s 2:29.96 714.6%	0+0k 0+2152672io 0pf+0w
+~/error_functionNAD
+2980.654u 35.645s 6:50.24 735.2%	0+0k 0+7799184io 0pf+0w
+~/error_functionNAD
+grader.pyc:	[['energy', 1.0, 16.8]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD/GaussFiles/TS_state/TS_state_8.out', mode 'r' at 0x7fbc79a9a780>	4.1732085465
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD/GaussFiles/reactants/reactants_8.out', mode 'r' at 0x7fbc79a9a1e0>	1.55800825827
+~/error_functionNAD/GaussFiles/TS_state ~/error_functionNAD
+~/error_functionNAD/GaussFiles/reactants ~/error_functionNAD
+397.309u 5.255s 0:55.99 718.9%	0+0k 0+1255696io 0pf+0w
+~/error_functionNAD
+425.764u 4.849s 0:59.75 720.6%	0+0k 0+1096000io 0pf+0w
+~/error_functionNAD
+grader.pyc:	[['energy', 1.0, 16.8]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD/GaussFiles/TS_state/TS_state_9.out', mode 'r' at 0x7fbc79a9ac00>	1.05763966306
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD/GaussFiles/reactants/reactants_9.out', mode 'r' at 0x7fbc79a9ea50>	1.56059570535
+~/error_functionNAD/GaussFiles/reactants ~/error_functionNAD
+~/error_functionNAD/GaussFiles/TS_state ~/error_functionNAD
+869.496u 8.973s 2:03.45 711.5%	0+0k 0+2223480io 0pf+0w
+~/error_functionNAD
+1952.721u 22.607s 4:30.97 728.9%	0+0k 0+5263776io 0pf+0w
+~/error_functionNAD
+grader.pyc:	[['energy', 1.0, 16.8]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD/GaussFiles/TS_state/TS_state_10.out', mode 'r' at 0x7fbc79a9a1e0>	4.55611765822
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD/GaussFiles/reactants/reactants_10.out', mode 'r' at 0x7fbc79a9a780>	1.58302124594
+~/error_functionNAD/GaussFiles/TS_state ~/error_functionNAD
+~/error_functionNAD/GaussFiles/reactants ~/error_functionNAD
+1058.002u 10.891s 2:32.10 702.7%	0+0k 0+2153168io 0pf+0w
+~/error_functionNAD
+1603.707u 17.714s 3:40.52 735.2%	0+0k 0+4407552io 0pf+0w
+~/error_functionNAD
+grader.pyc:	[['energy', 1.0, 16.8]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD/GaussFiles/TS_state/TS_state_11.out', mode 'r' at 0x7fbc79a9ea50>	2.29120407973
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD/GaussFiles/reactants/reactants_11.out', mode 'r' at 0x7fbc79a9ac00>	1.57771679963
+~/error_functionNAD/GaussFiles/TS_state ~/error_functionNAD
+~/error_functionNAD/GaussFiles/reactants ~/error_functionNAD
+839.378u 8.668s 2:00.34 704.6%	0+0k 0+1648672io 0pf+0w
+~/error_functionNAD
+1163.615u 15.389s 2:49.32 696.3%	0+0k 0+3548608io 0pf+0w
+~/error_functionNAD
+grader.pyc:	[['energy', 1.0, 16.8]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD/GaussFiles/TS_state/TS_state_12.out', mode 'r' at 0x7fbc79a9a780>	1.85234104461
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD/GaussFiles/reactants/reactants_12.out', mode 'r' at 0x7fbc79a9a1e0>	1.53542733867
+~/error_functionNAD/GaussFiles/reactants ~/error_functionNAD
+~/error_functionNAD/GaussFiles/TS_state ~/error_functionNAD
+887.043u 8.728s 2:05.57 713.3%	0+0k 0+1665712io 0pf+0w
+~/error_functionNAD
+1186.855u 13.717s 2:44.12 731.5%	0+0k 0+3077128io 0pf+0w
+~/error_functionNAD
+grader.pyc:	[['energy', 1.0, 16.8]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD/GaussFiles/TS_state/TS_state_13.out', mode 'r' at 0x7fbc79a9ac00>	0.372414174794
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD/GaussFiles/reactants/reactants_13.out', mode 'r' at 0x7fbc79a9ea50>	1.5442935515
+~/error_functionNAD/GaussFiles/TS_state ~/error_functionNAD
+~/error_functionNAD/GaussFiles/reactants ~/error_functionNAD
+648.255u 6.869s 1:32.85 705.5%	0+0k 0+1602040io 0pf+0w
+~/error_functionNAD
+1137.095u 13.475s 2:39.07 723.3%	0+0k 0+3033560io 0pf+0w
+~/error_functionNAD
+grader.pyc:	[['energy', 1.0, 16.8]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD/GaussFiles/TS_state/TS_state_14.out', mode 'r' at 0x7fbc79a9a1e0>	-1.92881035828
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD/GaussFiles/reactants/reactants_14.out', mode 'r' at 0x7fbc79a9a780>	1.55421696776
+~/error_functionNAD/GaussFiles/TS_state ~/error_functionNAD
+~/error_functionNAD/GaussFiles/reactants ~/error_functionNAD
+843.302u 8.954s 2:00.19 709.0%	0+0k 0+1637264io 0pf+0w
+~/error_functionNAD
+1510.692u 17.991s 3:28.71 732.4%	0+0k 0+4157800io 0pf+0w
+~/error_functionNAD
+grader.pyc:	[['energy', 1.0, 16.8]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD/GaussFiles/TS_state/TS_state_15.out', mode 'r' at 0x7fbc79a9ea50>	-8.34943984987
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD/GaussFiles/reactants/reactants_15.out', mode 'r' at 0x7fbc79a9ac00>	1.56606166988
+~/error_functionNAD/GaussFiles/TS_state ~/error_functionNAD
+~/error_functionNAD/GaussFiles/reactants ~/error_functionNAD
+996.555u 9.984s 2:22.11 708.2%	0+0k 0+2413560io 0pf+0w
+~/error_functionNAD
+1186.906u 14.177s 2:44.94 728.1%	0+0k 0+3456976io 0pf+0w
+~/error_functionNAD
+grader.pyc:	[['energy', 1.0, 16.8]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD/GaussFiles/TS_state/TS_state_16.out', mode 'r' at 0x7fbc79a9a780>	3.82824072412
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD/GaussFiles/reactants/reactants_16.out', mode 'r' at 0x7fbc79a9a1e0>	1.57016272322
+[41mTEST: inCounter:17 GradeList: [15.216978754055839, 15.221680887732731, 15.222283200371896, 15.225518301718974, 15.22715775001666, 15.229837276775585, 15.23393833011626, 15.234755379027714, 15.239404294645109, 15.24199174172961, 15.243985497743925, 15.245783032241318, 15.252776659467298, 15.255706448497234, 15.264572661327552][0m
+2
+***********Mutator: self.rateCromo=0.25 self.rateGene 0.25 rand 0.0968705565168
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+***********Mutator: self.rateCromo=0.25 self.rateGene 0.25 rand 0.296767166922
+***********Mutator: self.rateCromo=0.25 self.rateGene 0.25 rand 0.715989185455
+***********Mutator: self.rateCromo=0.25 self.rateGene 0.25 rand 0.249064011605
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+2
+***********Mutator: self.rateCromo=0.25 self.rateGene 0.25 rand 0.535460917079
+***********Mutator: self.rateCromo=0.25 self.rateGene 0.25 rand 0.539637276077
+***********Mutator: self.rateCromo=0.25 self.rateGene 0.25 rand 0.148768818276
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+***********Mutator: self.rateCromo=0.25 self.rateGene 0.25 rand 0.284224056088
+2
+***********Mutator: self.rateCromo=0.25 self.rateGene 0.25 rand 0.144980625387
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+***********Mutator: self.rateCromo=0.25 self.rateGene 0.25 rand 0.731324652608
+***********Mutator: self.rateCromo=0.25 self.rateGene 0.25 rand 0.217799205627
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+***********Mutator: self.rateCromo=0.25 self.rateGene 0.25 rand 0.6843213645
+2
+***********Mutator: self.rateCromo=0.25 self.rateGene 0.25 rand 0.837524950473
+***********Mutator: self.rateCromo=0.25 self.rateGene 0.25 rand 0.790581394687
+***********Mutator: self.rateCromo=0.25 self.rateGene 0.25 rand 0.355819920906
+***********Mutator: self.rateCromo=0.25 self.rateGene 0.25 rand 0.765272779118
+2
+***********Mutator: self.rateCromo=0.25 self.rateGene 0.25 rand 0.13553869613
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+***********Mutator: self.rateCromo=0.25 self.rateGene 0.25 rand 0.869247701082
+***********Mutator: self.rateCromo=0.25 self.rateGene 0.25 rand 0.280277798988
+***********Mutator: self.rateCromo=0.25 self.rateGene 0.25 rand 0.863172395423
+2
+***********Mutator: self.rateCromo=0.25 self.rateGene 0.25 rand 0.83355224715
+***********Mutator: self.rateCromo=0.25 self.rateGene 0.25 rand 0.0121860147763
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+***********Mutator: self.rateCromo=0.25 self.rateGene 0.25 rand 0.228814714661
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+***********Mutator: self.rateCromo=0.25 self.rateGene 0.25 rand 0.842801352881
+2
+***********Mutator: self.rateCromo=0.25 self.rateGene 0.25 rand 0.801422512436
+***********Mutator: self.rateCromo=0.25 self.rateGene 0.25 rand 0.233610375734
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+***********Mutator: self.rateCromo=0.25 self.rateGene 0.25 rand 0.741464700729
+***********Mutator: self.rateCromo=0.25 self.rateGene 0.25 rand 0.123510942434
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+2
+***********Mutator: self.rateCromo=0.25 self.rateGene 0.25 rand 0.208121623318
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+***********Mutator: self.rateCromo=0.25 self.rateGene 0.25 rand 0.474881308339
+***********Mutator: self.rateCromo=0.25 self.rateGene 0.25 rand 0.695124317242
+***********Mutator: self.rateCromo=0.25 self.rateGene 0.25 rand 0.404769045582
+2
+***********Mutator: self.rateCromo=0.25 self.rateGene 0.25 rand 0.2383668067
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+***********Mutator: self.rateCromo=0.25 self.rateGene 0.25 rand 0.11769573196
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+***********Mutator: self.rateCromo=0.25 self.rateGene 0.25 rand 0.660562932693
+***********Mutator: self.rateCromo=0.25 self.rateGene 0.25 rand 0.194561666649
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+2
+***********Mutator: self.rateCromo=0.25 self.rateGene 0.25 rand 0.990660671784
+***********Mutator: self.rateCromo=0.25 self.rateGene 0.25 rand 0.126028559032
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+***********Mutator: self.rateCromo=0.25 self.rateGene 0.25 rand 0.978571696221
+***********Mutator: self.rateCromo=0.25 self.rateGene 0.25 rand 0.515348766535
+2
+***********Mutator: self.rateCromo=0.25 self.rateGene 0.25 rand 0.430084032112
+***********Mutator: self.rateCromo=0.25 self.rateGene 0.25 rand 0.96266865213
+***********Mutator: self.rateCromo=0.25 self.rateGene 0.25 rand 0.57319682714
+***********Mutator: self.rateCromo=0.25 self.rateGene 0.25 rand 0.457135537889
+2
+***********Mutator: self.rateCromo=0.25 self.rateGene 0.25 rand 0.279726301402
+***********Mutator: self.rateCromo=0.25 self.rateGene 0.25 rand 0.310791453364
+***********Mutator: self.rateCromo=0.25 self.rateGene 0.25 rand 0.602399252292
+***********Mutator: self.rateCromo=0.25 self.rateGene 0.25 rand 0.14809920483
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+2
+***********Mutator: self.rateCromo=0.25 self.rateGene 0.25 rand 0.410022923989
+***********Mutator: self.rateCromo=0.25 self.rateGene 0.25 rand 0.274704109827
+***********Mutator: self.rateCromo=0.25 self.rateGene 0.25 rand 0.951607179444
+***********Mutator: self.rateCromo=0.25 self.rateGene 0.25 rand 0.729140530836
+2
+***********Mutator: self.rateCromo=0.25 self.rateGene 0.25 rand 0.338566525069
+***********Mutator: self.rateCromo=0.25 self.rateGene 0.25 rand 0.6498185239
+***********Mutator: self.rateCromo=0.25 self.rateGene 0.25 rand 0.605392452681
+***********Mutator: self.rateCromo=0.25 self.rateGene 0.25 rand 0.899275678102
+2
+***********Mutator: self.rateCromo=0.25 self.rateGene 0.25 rand 0.349631392175
+***********Mutator: self.rateCromo=0.25 self.rateGene 0.25 rand 0.0349945851624
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+***********Mutator: self.rateCromo=0.25 self.rateGene 0.25 rand 0.234222693525
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+***********Mutator: self.rateCromo=0.25 self.rateGene 0.25 rand 0.688483718633
+2
+***********Mutator: self.rateCromo=0.25 self.rateGene 0.25 rand 0.0198281045716
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+***********Mutator: self.rateCromo=0.25 self.rateGene 0.25 rand 0.852939645248
+***********Mutator: self.rateCromo=0.25 self.rateGene 0.25 rand 0.554744140298
+***********Mutator: self.rateCromo=0.25 self.rateGene 0.25 rand 0.0410579199483
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+2
+***********Mutator: self.rateCromo=0.25 self.rateGene 0.25 rand 0.867433208544
+***********Mutator: self.rateCromo=0.25 self.rateGene 0.25 rand 0.287237984139
+***********Mutator: self.rateCromo=0.25 self.rateGene 0.25 rand 0.655527235465
+***********Mutator: self.rateCromo=0.25 self.rateGene 0.25 rand 0.12795315274
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+2
+***********Mutator: self.rateCromo=0.25 self.rateGene 0.25 rand 0.394037848775
+***********Mutator: self.rateCromo=0.25 self.rateGene 0.25 rand 0.0322410356536
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+***********Mutator: self.rateCromo=0.25 self.rateGene 0.25 rand 0.738462543198
+***********Mutator: self.rateCromo=0.25 self.rateGene 0.25 rand 0.313643500354
+2
+***********Mutator: self.rateCromo=0.25 self.rateGene 0.25 rand 0.194001882159
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+***********Mutator: self.rateCromo=0.25 self.rateGene 0.25 rand 0.79722347099
+***********Mutator: self.rateCromo=0.25 self.rateGene 0.25 rand 0.220369555057
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+***********Mutator: self.rateCromo=0.25 self.rateGene 0.25 rand 0.95930774997
+2
+***********Mutator: self.rateCromo=0.25 self.rateGene 0.25 rand 0.220314037743
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+***********Mutator: self.rateCromo=0.25 self.rateGene 0.25 rand 0.639167603026
+***********Mutator: self.rateCromo=0.25 self.rateGene 0.25 rand 0.25675595921
+***********Mutator: self.rateCromo=0.25 self.rateGene 0.25 rand 0.48263171989
+2
+***********Mutator: self.rateCromo=0.25 self.rateGene 0.25 rand 0.980766090993
+***********Mutator: self.rateCromo=0.25 self.rateGene 0.25 rand 0.572606413383
+***********Mutator: self.rateCromo=0.25 self.rateGene 0.25 rand 0.151270464604
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+***********Mutator: self.rateCromo=0.25 self.rateGene 0.25 rand 0.978469800508
+2
+***********Mutator: self.rateCromo=0.25 self.rateGene 0.25 rand 0.843780024646
+***********Mutator: self.rateCromo=0.25 self.rateGene 0.25 rand 0.854413274534
+***********Mutator: self.rateCromo=0.25 self.rateGene 0.25 rand 0.155145561995
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+****Mutation!!****: 0.25
+***********Mutator: self.rateCromo=0.25 self.rateGene 0.25 rand 0.750641116263
+2
+***********Mutator: self.rateCromo=0.25 self.rateGene 0.25 rand 0.255258312729
+***********Mutator: self.rateCromo=0.25 self.rateGene 0.25 rand 0.610551021689
+***********Mutator: self.rateCromo=0.25 self.rateGene 0.25 rand 0.907833614322
+***********Mutator: self.rateCromo=0.25 self.rateGene 0.25 rand 0.555558687761
+**************
+This is generation number:  3
+**************
+~/error_functionNAD/GaussFiles/reactants ~/error_functionNAD
+~/error_functionNAD/GaussFiles/TS_state ~/error_functionNAD
+651.516u 6.967s 1:32.17 714.4%	0+0k 0+1602040io 0pf+0w
+~/error_functionNAD
+1122.494u 13.379s 2:36.18 727.2%	0+0k 0+3090080io 0pf+0w
+~/error_functionNAD
+grader.pyc:	[['energy', 1.0, 16.8]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD/GaussFiles/TS_state/TS_state_17.out', mode 'r' at 0x7fbc79a9ac00>	-1.16907564798
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD/GaussFiles/reactants/reactants_17.out', mode 'r' at 0x7fbc79a9ea50>	1.56326933905
+~/error_functionNAD/GaussFiles/TS_state ~/error_functionNAD
+~/error_functionNAD/GaussFiles/reactants ~/error_functionNAD
+1067.196u 10.296s 2:33.04 704.0%	0+0k 0+2151640io 0pf+0w
+~/error_functionNAD
+2643.633u 31.369s 6:06.93 729.0%	0+0k 0+7553752io 0pf+0w
+~/error_functionNAD
+grader.pyc:	[['energy', 1.0, 16.8]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD/GaussFiles/TS_state/TS_state_18.out', mode 'r' at 0x7fbc79a9a1e0>	3.41137487173
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD/GaussFiles/reactants/reactants_18.out', mode 'r' at 0x7fbc79a9a780>	1.55441266242
+~/error_functionNAD/GaussFiles/TS_state ~/error_functionNAD
+~/error_functionNAD/GaussFiles/reactants ~/error_functionNAD
+1008.426u 10.312s 2:24.59 704.5%	0+0k 0+2239472io 0pf+0w
+~/error_functionNAD
+1516.772u 18.245s 3:29.76 731.7%	0+0k 0+4404224io 0pf+0w
+~/error_functionNAD
+grader.pyc:	[['energy', 1.0, 16.8]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD/GaussFiles/TS_state/TS_state_19.out', mode 'r' at 0x7fbc79a9ea50>	-0.315094841287
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD/GaussFiles/reactants/reactants_19.out', mode 'r' at 0x7fbc79a9ac00>	1.56815455176
+~/error_functionNAD/GaussFiles/reactants ~/error_functionNAD
+~/error_functionNAD/GaussFiles/TS_state ~/error_functionNAD
+907.242u 9.259s 2:08.49 713.2%	0+0k 0+1638024io 0pf+0w
+~/error_functionNAD
+1503.815u 16.851s 3:28.14 730.5%	0+0k 0+4339104io 0pf+0w
+~/error_functionNAD
+grader.pyc:	[['energy', 1.0, 16.8]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD/GaussFiles/TS_state/TS_state_20.out', mode 'r' at 0x7fbc79a9a780>	-8.53941072679
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD/GaussFiles/reactants/reactants_20.out', mode 'r' at 0x7fbc79a9a1e0>	1.5605820099
+~/error_functionNAD/GaussFiles/TS_state ~/error_functionNAD
+~/error_functionNAD/GaussFiles/reactants ~/error_functionNAD
+616.031u 7.005s 1:28.02 707.8%	0+0k 0+1602616io 0pf+0w
+~/error_functionNAD
+1159.520u 13.540s 2:40.87 729.1%	0+0k 0+3072672io 0pf+0w
+~/error_functionNAD
+grader.pyc:	[['energy', 1.0, 16.8]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD/GaussFiles/TS_state/TS_state_21.out', mode 'r' at 0x7fbc79a9ac00>	-2.35162000529
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD/GaussFiles/reactants/reactants_21.out', mode 'r' at 0x7fbc79a9ea50>	1.55690685138
+~/error_functionNAD/GaussFiles/TS_state ~/error_functionNAD
+~/error_functionNAD/GaussFiles/reactants ~/error_functionNAD
+839.321u 9.028s 1:59.35 710.8%	0+0k 0+1639824io 0pf+0w
+~/error_functionNAD
+1145.142u 13.392s 2:38.99 728.6%	0+0k 0+3187832io 0pf+0w
+~/error_functionNAD
+grader.pyc:	[['energy', 1.0, 16.8]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD/GaussFiles/TS_state/TS_state_22.out', mode 'r' at 0x7fbc79a9a1e0>	-0.0159170074431
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD/GaussFiles/reactants/reactants_22.out', mode 'r' at 0x7fbc79a9a780>	1.57593000125
+~/error_functionNAD/GaussFiles/TS_state ~/error_functionNAD
+~/error_functionNAD/GaussFiles/reactants ~/error_functionNAD
+877.046u 8.559s 2:05.25 707.0%	0+0k 0+1637888io 0pf+0w
+~/error_functionNAD
+3481.318u 39.609s 7:56.80 738.4%	0+0k 0+8412472io 0pf+0w
+~/error_functionNAD
+grader.pyc:	[['energy', 1.0, 16.8]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD/GaussFiles/TS_state/TS_state_23.out', mode 'r' at 0x7fbc79a9ea50>	6.9675727826
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD/GaussFiles/reactants/reactants_23.out', mode 'r' at 0x7fbc79a9ac00>	1.57027760444
+~/error_functionNAD/GaussFiles/TS_state ~/error_functionNAD
+~/error_functionNAD/GaussFiles/reactants ~/error_functionNAD
+820.564u 8.473s 1:57.33 706.5%	0+0k 0+1637680io 0pf+0w
+~/error_functionNAD
+3365.536u 38.842s 7:44.00 733.7%	0+0k 0+9134416io 0pf+0w
+~/error_functionNAD
+grader.pyc:	[['energy', 1.0, 16.8]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD/GaussFiles/TS_state/TS_state_24.out', mode 'r' at 0x7fbc79a9a780>	6.28645375392
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD/GaussFiles/reactants/reactants_24.out', mode 'r' at 0x7fbc79a9a1e0>	1.56502873918
+~/error_functionNAD/GaussFiles/reactants ~/error_functionNAD
+~/error_functionNAD/GaussFiles/TS_state ~/error_functionNAD
+832.784u 8.606s 1:58.53 709.8%	0+0k 0+1715080io 0pf+0w
+~/error_functionNAD
+1522.303u 18.491s 3:30.79 730.9%	0+0k 0+4409376io 0pf+0w
+~/error_functionNAD
+grader.pyc:	[['energy', 1.0, 16.8]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD/GaussFiles/TS_state/TS_state_25.out', mode 'r' at 0x7fbc79a9ac00>	6.55037635408
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD/GaussFiles/reactants/reactants_25.out', mode 'r' at 0x7fbc79a9ea50>	1.59125720445
+~/error_functionNAD/GaussFiles/TS_state ~/error_functionNAD
+~/error_functionNAD/GaussFiles/reactants ~/error_functionNAD
+1109.576u 10.549s 2:38.30 707.5%	0+0k 0+2155632io 0pf+0w
+~/error_functionNAD
+1652.201u 18.137s 3:46.80 736.4%	0+0k 0+4459896io 0pf+0w
+~/error_functionNAD
+grader.pyc:	[['energy', 1.0, 16.8]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD/GaussFiles/TS_state/TS_state_26.out', mode 'r' at 0x7fbc79a9a1e0>	-3.93209439935
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD/GaussFiles/reactants/reactants_26.out', mode 'r' at 0x7fbc79a9a780>	1.57863060053
+~/error_functionNAD/GaussFiles/TS_state ~/error_functionNAD
+~/error_functionNAD/GaussFiles/reactants ~/error_functionNAD
+605.398u 6.763s 1:25.94 712.2%	0+0k 0+1601048io 0pf+0w
+~/error_functionNAD
+1138.027u 13.373s 2:38.07 728.4%	0+0k 0+3008832io 0pf+0w
+~/error_functionNAD
+grader.pyc:	[['energy', 1.0, 16.8]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD/GaussFiles/TS_state/TS_state_27.out', mode 'r' at 0x7fbc79a9ea50>	2.03941556488
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD/GaussFiles/reactants/reactants_27.out', mode 'r' at 0x7fbc79a9ac00>	1.57177808664
+~/error_functionNAD/GaussFiles/TS_state ~/error_functionNAD
+~/error_functionNAD/GaussFiles/reactants ~/error_functionNAD
+1233.530u 12.031s 2:55.93 707.9%	0+0k 0+2246664io 0pf+0w
+~/error_functionNAD
+2286.910u 26.823s 5:14.59 735.4%	0+0k 0+6623112io 0pf+0w
+~/error_functionNAD
+grader.pyc:	[['energy', 1.0, 16.8]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD/GaussFiles/TS_state/TS_state_28.out', mode 'r' at 0x7fbc79a9a780>	8.62187907607
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD/GaussFiles/reactants/reactants_28.out', mode 'r' at 0x7fbc79a9a1e0>	1.56667963437
+~/error_functionNAD/GaussFiles/TS_state ~/error_functionNAD
+~/error_functionNAD/GaussFiles/reactants ~/error_functionNAD
+1216.346u 16.160s 2:56.56 698.0%	0+0k 0+3057816io 0pf+0w
+~/error_functionNAD
+1831.235u 17.406s 4:22.81 703.4%	0+0k 0+2265768io 0pf+0w
+~/error_functionNAD
+grader.pyc:	[['energy', 1.0, 16.8]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD/GaussFiles/TS_state/TS_state_29.out', mode 'r' at 0x7fbc79a9ac00>	-1.82541514791
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD/GaussFiles/reactants/reactants_29.out', mode 'r' at 0x7fbc79a9ea50>	1.57448169816
+~/error_functionNAD/GaussFiles/reactants ~/error_functionNAD
+~/error_functionNAD/GaussFiles/TS_state ~/error_functionNAD
+1049.548u 10.116s 2:30.72 703.0%	0+0k 0+1701696io 0pf+0w
+~/error_functionNAD
+1524.730u 18.058s 3:31.30 730.1%	0+0k 0+4590368io 0pf+0w
+~/error_functionNAD
+grader.pyc:	[['energy', 1.0, 16.8]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD/GaussFiles/TS_state/TS_state_30.out', mode 'r' at 0x7fbc79a9a1e0>	4.34934655192
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD/GaussFiles/reactants/reactants_30.out', mode 'r' at 0x7fbc79a9a780>	1.57831911221
+~/error_functionNAD/GaussFiles/TS_state ~/error_functionNAD
+~/error_functionNAD/GaussFiles/reactants ~/error_functionNAD
+1553.465u 19.543s 3:35.09 731.3%	0+0k 0+4372832io 0pf+0w
+~/error_functionNAD
+11744.580u 105.191s 28:16.63 698.4%	0+0k 0+20119816io 0pf+0w
+~/error_functionNAD
+grader.pyc:	[['energy', 1.0, 16.8]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD/GaussFiles/TS_state/TS_state_31.out', mode 'r' at 0x7fbc79a9ea50>	-8.71584755183
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD/GaussFiles/reactants/reactants_31.out', mode 'r' at 0x7fbc79a9ac00>	1.53675981461
+~/error_functionNAD/GaussFiles/TS_state ~/error_functionNAD
+~/error_functionNAD/GaussFiles/reactants ~/error_functionNAD
+839.391u 8.739s 1:59.40 710.3%	0+0k 0+1649152io 0pf+0w
+~/error_functionNAD
+2984.363u 35.178s 6:52.11 732.7%	0+0k 0+6786808io 0pf+0w
+~/error_functionNAD
+grader.pyc:	[['energy', 1.0, 16.8]]
+outExtractor.pyc:	 prodOuts:: <open file '/home/qnt/pshety/error_functionNAD/GaussFiles/TS_state/TS_state_32.out', mode 'r' at 0x7fbc79a9a780>	6.59287677357
+outExtractor.pyc:	 reacOuts:: <open file '/home/qnt/pshety/error_functionNAD/GaussFiles/reactants/reactants_32.out', mode 'r' at 0x7fbc79a9a1e0>	1.55521178066
+~/error_functionNAD/GaussFiles/TS_state ~/error_functionNAD
+~/error_functionNAD/GaussFiles/reactants ~/error_functionNAD
+1238.415u 15.947s 3:00.16 696.2%	0+0k 0+3148200io 0pf+0w
+~/error_functionNAD

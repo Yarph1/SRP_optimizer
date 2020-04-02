@@ -1,0 +1,21 @@
+# /bin/csh
+# Usage: g09vib file1 [file2 ...]
+# The g09vib command corrects g09 output so that
+# gaussview 4 reads the frequencies correctly
+# from the output
+# Written by DTM 04/02/2010
+
+
+if ($#argv == 0) then
+   echo "Error: No arguments provided."
+   echo "Usage: rpls string1 string2 file1 [file2 ...]"
+else
+
+set i = 1
+   foreach arg ($argv[$i])
+       cat $arg | sed "s/ Atom  AN/ Atom AN/g" > temp
+       mv temp $arg
+
+   end
+endif
+
